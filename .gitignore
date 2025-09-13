@@ -22,7 +22,6 @@ dist/
 # Data files y modelos pesados
 *.h5
 *.pkl
-nexus_data.json
 
 # IDE / editor files
 .vscode/
