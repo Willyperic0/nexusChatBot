@@ -1,0 +1,167 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "Hola",
+                "Buenos días",
+                "Buenas tardes",
+                "¿Qué tal entrenador?",
+                "¡Saludos Pokémon!"
+            ],
+            "responses": [
+                "¡Hola entrenador! ¿Listo para una nueva aventura Pokémon?",
+                "¡Saludos! ¿En qué puedo ayudarte hoy en el mundo Pokémon?",
+                "¡Hola! ¿Quieres saber algo sobre Pokémon?"
+            ]
+        },
+        {
+            "tag": "objetos",
+            "patterns": [
+                "¿Qué objetos hay en Pokémon?",
+                "Tipos de objetos Pokémon",
+                "¿Para qué sirven las pociones y bayas?"
+            ],
+            "responses": [
+                "Los objetos en Pokémon incluyen pociones, superpociones, revivir, piedras evolutivas, MTs, bayas, Poké Balls y repelentes.",
+                "Las pociones restauran PS, las piedras permiten evolucionar, las MT enseñan movimientos y las Poké Balls sirven para capturar Pokémon.",
+                "Puedes organizar tu mochila por categorías: objetos curativos, Poké Balls, MTs, bayas, etc."
+            ]
+        },
+        {
+            "tag": "movimientos",
+            "patterns": [
+                "¿Qué movimientos puede aprender Pikachu?",
+                "Movimientos de tipo fuego",
+                "¿Qué hace el movimiento Surf?",
+                "Efectos de movimientos Pokémon"
+            ],
+            "responses": [
+                "Los movimientos Pokémon son habilidades que se usan en combate. Por ejemplo, 'Surf' es de tipo agua y daña a todos los oponentes en combate doble.",
+                "'Lanzallamas' es de tipo fuego con alta potencia y posibilidad de quemar al rival.",
+                "'Psíquico' es un ataque de tipo psíquico que puede reducir la defensa especial del oponente.",
+                "Cada movimiento tiene tipo, potencia, precisión y efectos secundarios. Algunos causan daño, otros alteran estadísticas o infligen estados."
+            ]
+        },
+        {
+            "tag": "evolucion",
+            "patterns": [
+                "¿Cómo evoluciona Pikachu?",
+                "¿Qué nivel necesita un Pokémon para evolucionar?",
+                "Evolución de Pokémon"
+            ],
+            "responses": [
+                "Pikachu evoluciona a Raichu usando una piedra trueno.",
+                "Algunos Pokémon evolucionan por nivel, otros por amistad, objetos o condiciones especiales.",
+                "Las piedras evolutivas permiten que ciertos Pokémon evolucionen, como Eevee con piedra fuego a Flareon."
+            ]
+        },
+        {
+            "tag": "tipos",
+            "patterns": [
+                "¿Cuántos tipos de Pokémon hay?",
+                "Tipos de Pokémon",
+                "¿Qué tipo es fuerte contra otro?"
+            ],
+            "responses": [
+                "Hay 18 tipos de Pokémon: fuego, agua, planta, eléctrico, psíquico, entre otros.",
+                "Cada tipo tiene fortalezas y debilidades frente a otros. Por ejemplo, agua es fuerte contra fuego.",
+                "Conocer los tipos es clave para planear estrategias efectivas en combate."
+            ]
+        },
+        {
+            "tag": "shiny",
+            "patterns": [
+                "¿Qué es un Pokémon shiny?",
+                "¿Cómo consigo Pokémon shiny?",
+                "Pokémon variocolor"
+            ],
+            "responses": [
+                "Un Pokémon shiny tiene colores diferentes a los normales. Son muy raros.",
+                "Se pueden obtener por suerte o usando métodos como el Método Masuda.",
+                "Los Pokémon shiny no tienen mejores estadísticas, pero son muy valorados por su rareza."
+            ]
+        },
+        {
+            "tag": "mega_evolucion",
+            "patterns": [
+                "¿Qué es la mega evolución?",
+                "Pokémon con mega evolución",
+                "¿Cómo activo la mega evolución?"
+            ],
+            "responses": [
+                "La mega evolución es una transformación temporal que mejora estadísticas durante el combate.",
+                "Requiere una Mega Piedra y el vínculo con el entrenador.",
+                "Solo ciertos Pokémon pueden mega evolucionar, como Charizard, Lucario y Gardevoir."
+            ]
+        },
+        {
+            "tag": "legendarios",
+            "patterns": [
+                "¿Cuáles son los Pokémon legendarios?",
+                "Pokémon legendarios",
+                "¿Dónde encuentro a Mewtwo?"
+            ],
+            "responses": [
+                "Algunos Pokémon legendarios son Mewtwo, Zapdos, Articuno, Moltres, Lugia y Ho-Oh.",
+                "Se encuentran en lugares especiales del juego y suelen tener estadísticas muy altas.",
+                "Los Pokémon legendarios no pueden reproducirse y suelen estar limitados a uno por partida."
+            ]
+        },
+        {
+            "tag": "regiones_pokemon",
+            "patterns": [
+                "¿Cuáles son las regiones Pokémon?",
+                "Regiones en el mundo Pokémon",
+                "¿Dónde empieza la aventura Pokémon?"
+            ],
+            "responses": [
+                "Las regiones Pokémon incluyen Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar y Paldea. Cada una tiene su propia Pokédex y líderes de gimnasio."
+            ]
+        },
+        {
+            "tag": "gimnasios_pokemon",
+            "patterns": [
+                "¿Qué son los gimnasios Pokémon?",
+                "¿Cuántos gimnasios hay?",
+                "¿Quiénes son los líderes de gimnasio?"
+            ],
+            "responses": [
+                "Los gimnasios Pokémon son lugares donde los entrenadores desafían a líderes para ganar medallas. Cada gimnasio se especializa en un tipo de Pokémon."
+            ]
+        },
+        {
+            "tag": "crianza_pokemon",
+            "patterns": [
+                "¿Cómo crío Pokémon?",
+                "¿Qué es la crianza Pokémon?",
+                "¿Cómo consigo huevos Pokémon?"
+            ],
+            "responses": [
+                "La crianza Pokémon se realiza dejando dos Pokémon compatibles en la guardería. Si son compatibles, producirán un huevo que puede eclosionar en un nuevo Pokémon."
+            ]
+        },
+        {
+            "tag": "estrategias_combate",
+            "patterns": [
+                "¿Qué estrategias puedo usar en combate?",
+                "Consejos para batallas Pokémon",
+                "¿Cómo gano combates Pokémon?"
+            ],
+            "responses": [
+                "Las estrategias incluyen usar movimientos de estado, aprovechar las debilidades de tipo, cambiar de Pokémon en el momento adecuado y usar objetos como bayas o MTs."
+            ]
+        },
+        {
+            "tag": "habilidades_especiales",
+            "patterns": [
+                "¿Qué son las habilidades Pokémon?",
+                "Habilidades especiales de Pokémon",
+                "¿Qué habilidad tiene Charizard?"
+            ],
+            "responses": [
+                "Las habilidades Pokémon son efectos pasivos únicos. Por ejemplo, 'Levitate' evita ataques de tipo tierra. Cada Pokémon puede tener una o más habilidades posibles."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+mi_venv/
+venv/
+env/
+
+# Python-specific caches
+*.pyo
+*.pyd
+*.pdb
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Data files y modelos pesados
+*.h5
+*.pkl
+nexus_data.json
+
+# IDE / editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# Ignore secrets or credentials if any
+*.env

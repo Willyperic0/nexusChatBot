@@ -1,0 +1,6 @@
+nltk
+tensorflow
+numpy
+streamlit
+unidecode
+scikit-learn
