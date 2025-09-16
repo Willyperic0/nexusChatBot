@@ -1,0 +1,253 @@
+hola
+buenas
+oli
+saludos bot
+hey
+¿qué hace el chatbot?
+cómo me ayuda el bot
+que hace el chatbot?
+bye
+adiós
+
+dime info del guerrero tanque
+acciones de guerrero tanque
+guerrero tanque acciones 2 5 8
+¿costo y efecto golpe con escudo?
+¿costo y efecto mano de piedra?
+¿costo y efecto defensa feroz?
+guerrero tanque carga y duración
+armas para guerrero tanque
+arma espada de una mano efectos?
+escudo de dragón efectos?
+armaduras para guerrero tanque
+defensa del enfurecido drop?
+magma ardiente tipo de pieza?
+
+dime info del guerrero armas
+acciones de guerrero armas
+guerrero armas acciones 2 5 8
+costo y efecto embate sangriento
+lanza de los dioses detalle
+golpe de tormenta detalle
+armas para guerrero armas
+espada de dos manos efectos
+piedra de afilar slot y uso
+armaduras para guerrero armas
+puño lúcido efecto de armadura
+puños en llamas drop
+
+dime info del mago fuego
+acciones de mago fuego
+mago fuego acciones 2 5 8
+misiles de magma costo
+vulcano costo y efecto
+pared de fuego detalle nivel 8
+armas para mago fuego
+orbe de manos ardientes porcentaje de caída
+fuego fatuo slot y uso
+armaduras para mago fuego
+túnica arcana tipo de pieza
+caída de fuego tipo de pieza
+
+dime info del mago hielo
+acciones de mago hielo
+mago hielo acciones 2 5 8
+lluvia de hielo costo y efecto
+cono de hielo costo y efecto
+bola de hielo costo y efecto
+armas para mago hielo
+báculo de permafrost porcentaje de caída
+venas heladas efectos
+armaduras para mago hielo
+corona de hielo tipo de pieza
+ventisca tipo de pieza
+
+dime info del pícaro machete
+acciones de pícaro machete
+pícaro machete acciones 2 5 8
+costo y efecto cortada
+costo y efecto machetazo
+costo y efecto planazo
+armas para pícaro machete
+machete bendito porcentaje de caída
+cierra sangrienta slot y uso
+armaduras para pícaro machete
+pie de atleta efecto de armadura
+sangre cruel tipo de pieza
+
+dime info del pícaro veneno
+acciones de pícaro veneno
+pícaro veneno acciones 2 5 8
+costo y efecto flor de loto
+costo y efecto agonía
+costo y efecto piquete
+armas para pícaro veneno
+daga purulenta efectos
+visión borrosa efectos
+armaduras para pícaro veneno
+atadura carmesí drop
+mano del desterrado tipo de pieza
+
+dime info del chamán
+acciones de chamán
+chamán acciones 2 5 8
+costo y efecto toque de la vida
+vínculo natural detalle
+canto del bosque detalle
+armas para chamán
+raíz china efectos
+yerbabuena efectos
+armaduras para chamán
+casco de ecos ancestrales drop
+piel de caminante del bosque efecto
+
+dime info del médico
+acciones de médico
+médico habilidades por nivel
+curación directa detalle nivel 2
+neutralización de efectos detalle
+reanimación detalle nivel 8
+armas para médico
+kit de urgencias % de caída
+reanimador % de caída
+armaduras para médico
+bata de cirujano efecto de armadura
+pantalón de expedición médica tipo de pieza
+
+¿qué son los créditos?
+cómo ganar créditos
+créditos usos
+qué son los cofres
+cómo obtener cofres
+límite semanal de cofres
+cofres contador
+colores de barra de vida
+indicador de salud
+¿colores?
+
+cómo hago una subasta
+cómo puedo pujar
+cómo funciona la compra inmediata
+subasta 24h 48h
+comprar ya buyout
+compra inmediata explicación
+subasta costos
+puja requisitos
+
+cómo vencer a Guerrero Armas con Chamán
+cómo vencer a Guerrero Tanque con Chamán
+cómo vencer a Mago Fuego con Chamán
+cómo vencer a Mago Hielo con Chamán
+cómo vencer a Médico con Chamán
+cómo vencer a Pícaro Machete con Chamán
+cómo vencer a Pícaro Veneno con Chamán
+
+cómo vencer a Chamán con Guerrero Armas
+cómo vencer a Guerrero Tanque con Guerrero Armas
+cómo vencer a Mago Fuego con Guerrero Armas
+cómo vencer a Mago Hielo con Guerrero Armas
+cómo vencer a Médico con Guerrero Armas
+cómo vencer a Pícaro Machete con Guerrero Armas
+cómo vencer a Pícaro Veneno con Guerrero Armas
+
+cómo vencer a Chamán con Guerrero Tanque
+cómo vencer a Guerrero Armas con Guerrero Tanque
+cómo vencer a Mago Fuego con Guerrero Tanque
+cómo vencer a Mago Hielo con Guerrero Tanque
+cómo vencer a Médico con Guerrero Tanque
+cómo vencer a Pícaro Machete con Guerrero Tanque
+cómo vencer a Pícaro Veneno con Guerrero Tanque
+
+cómo vencer a Chamán con Mago Fuego
+cómo vencer a Guerrero Armas con Mago Fuego
+cómo vencer a Guerrero Tanque con Mago Fuego
+cómo vencer a Mago Hielo con Mago Fuego
+cómo vencer a Médico con Mago Fuego
+cómo vencer a Pícaro Machete con Mago Fuego
+cómo vencer a Pícaro Veneno con Mago Fuego
+
+cómo vencer a Chamán con Mago Hielo
+cómo vencer a Guerrero Armas con Mago Hielo
+cómo vencer a Guerrero Tanque con Mago Hielo
+cómo vencer a Mago Fuego con Mago Hielo
+cómo vencer a Médico con Mago Hielo
+cómo vencer a Pícaro Machete con Mago Hielo
+cómo vencer a Pícaro Veneno con Mago Hielo
+
+cómo vencer a Chamán con Médico
+cómo vencer a Guerrero Armas con Médico
+cómo vencer a Guerrero Tanque con Médico
+cómo vencer a Mago Fuego con Médico
+cómo vencer a Mago Hielo con Médico
+cómo vencer a Pícaro Machete con Médico
+cómo vencer a Pícaro Veneno con Médico
+
+cómo vencer a Chamán con Pícaro Machete
+cómo vencer a Guerrero Armas con Pícaro Machete
+cómo vencer a Guerrero Tanque con Pícaro Machete
+cómo vencer a Mago Fuego con Pícaro Machete
+cómo vencer a Mago Hielo con Pícaro Machete
+cómo vencer a Médico con Pícaro Machete
+cómo vencer a Pícaro Veneno con Pícaro Machete
+
+cómo vencer a Chamán con Pícaro Veneno
+cómo vencer a Guerrero Armas con Pícaro Veneno
+cómo vencer a Guerrero Tanque con Pícaro Veneno
+cómo vencer a Mago Fuego con Pícaro Veneno
+cómo vencer a Mago Hielo con Pícaro Veneno
+cómo vencer a Médico con Pícaro Veneno
+cómo vencer a Pícaro Machete con Pícaro Veneno
+
+efectos aleatorios
+críticos y evasión
+cómo funciona la tabla de 8000 efectos
+efectos aleatorios de Chamán
+cambio crítico +2% chamán
+cambio crítico +4% chamán
+cambio crítico +6% chamán
+cambio crítico +8% chamán
+cambio crítico +10% chamán
+tabla 8000 chamán modificada
+probabilidades base de Guerrero Armas
+cambio crítico +2% guerrero armas
+cambio crítico +4% guerrero armas
+cambio crítico +6% guerrero armas
+cambio crítico +8% guerrero armas
+cambio crítico +10% guerrero armas
+probabilidades base de Guerrero Tanque
+cambio crítico +2% guerrero tanque
+cambio crítico +4% guerrero tanque
+cambio crítico +6% guerrero tanque
+cambio crítico +8% guerrero tanque
+cambio crítico +10% guerrero tanque
+probabilidades base de Mago Fuego
+cambio crítico +2% mago fuego
+cambio crítico +4% mago fuego
+cambio crítico +6% mago fuego
+cambio crítico +8% mago fuego
+cambio crítico +10% mago fuego
+probabilidades base de Mago Hielo
+cambio crítico +2% mago hielo
+cambio crítico +4% mago hielo
+cambio crítico +6% mago hielo
+cambio crítico +8% mago hielo
+cambio crítico +10% mago hielo
+
+# Casos con ruido / typos (desafío)
+ime info del guerrero tanque
+explícame el picaro machete
+que poderes tiene el chamn
+como hago subaasta
+espadaa de dos manos efectos
+mago fueg acciones 2 5 8
+picar0 veneno armas set 1
+guerrerro armas accionez
+comprar ya buyout
+cofres limite semnal
+colorez barra de vida
+
+# Fuera de dominio (debe ir a fallback)
+capital de Francia
+quién es messi
+clima hoy
+precio del dólar

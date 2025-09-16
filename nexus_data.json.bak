@@ -30,7 +30,9 @@
         "¿¿Acción nivel 2 de Chamán???"
       ],
       "responses": [
-        "Chamán — Toque de la Vida (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel."
+        "Chamán — Toque de la Vida (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel.",
+        "Detalle de Toque de la Vida: Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -63,7 +65,9 @@
         "costo y efecto vínculo natural?"
       ],
       "responses": [
-        "Chamán — Vínculo Natural (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel."
+        "Chamán — Vínculo Natural (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel.",
+        "Detalle de Vínculo Natural: Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -96,7 +100,9 @@
         "detalle canto del bosque nivel 8??"
       ],
       "responses": [
-        "Chamán — Canto del Bosque (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel."
+        "Chamán — Canto del Bosque (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel.",
+        "Detalle de Canto del Bosque: Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel. Recuerda que requiere 6 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -129,7 +135,9 @@
         "¿Costo y efecto Embate sangriento?"
       ],
       "responses": [
-        "Guerrero Armas — Embate sangriento (Nivel 2) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel."
+        "Guerrero Armas — Embate sangriento (Nivel 2) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel.",
+        "Detalle de Embate sangriento: Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -162,7 +170,9 @@
         "¿detalle?"
       ],
       "responses": [
-        "Guerrero Armas — Lanza de los dioses (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel."
+        "Guerrero Armas — Lanza de los dioses (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel.",
+        "Detalle de Lanza de los dioses: Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -195,7 +205,9 @@
         "¿detalle?"
       ],
       "responses": [
-        "Guerrero Armas — Golpe de tormenta (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel."
+        "Guerrero Armas — Golpe de tormenta (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel.",
+        "Detalle de Golpe de tormenta: Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel. Recuerda que requiere 6 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -228,7 +240,9 @@
         "¿Acción nivel 2 de Guerrero Tanque?"
       ],
       "responses": [
-        "Guerrero Tanque — Golpe con escudo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel."
+        "Guerrero Tanque — Golpe con escudo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel.",
+        "Detalle de Golpe con escudo: Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -261,7 +275,9 @@
         "Detalle Mano de piedra nivel 5???"
       ],
       "responses": [
-        "Guerrero Tanque — Mano de piedra (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel."
+        "Guerrero Tanque — Mano de piedra (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel.",
+        "Detalle de Mano de piedra: Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -294,7 +310,9 @@
         "¿¿Guerrero Tanque habilidad Defensa feroz??"
       ],
       "responses": [
-        "Guerrero Tanque — Defensa feroz (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel."
+        "Guerrero Tanque — Defensa feroz (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel.",
+        "Detalle de Defensa feroz: Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel. Recuerda que requiere 6 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -327,7 +345,9 @@
         "¿¿mago??"
       ],
       "responses": [
-        "Mago Fuego — Misiles de magma (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel."
+        "Mago Fuego — Misiles de magma (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel.",
+        "Detalle de Misiles de magma: Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -360,7 +380,9 @@
         "¿mago??"
       ],
       "responses": [
-        "Mago Fuego — Vulcano (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel."
+        "Mago Fuego — Vulcano (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel.",
+        "Detalle de Vulcano: Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Recuerda que requiere 6 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -393,7 +415,9 @@
         "mago fuego habilidad pared de fuego"
       ],
       "responses": [
-        "Mago Fuego — Pared de fuego (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel."
+        "Mago Fuego — Pared de fuego (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.",
+        "Detalle de Pared de fuego: Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -426,7 +450,9 @@
         "¿Acción nivel 2 de Mago Hielo???"
       ],
       "responses": [
-        "Mago Hielo — Lluvia de hielo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel."
+        "Mago Hielo — Lluvia de hielo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel.",
+        "Detalle de Lluvia de hielo: Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -459,7 +485,9 @@
         "¿¿Costo y efecto Cono de hielo??"
       ],
       "responses": [
-        "Mago Hielo — Cono de hielo (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel."
+        "Mago Hielo — Cono de hielo (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel.",
+        "Detalle de Cono de hielo: Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel. Recuerda que requiere 6 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -492,7 +520,9 @@
         "¿Mago Hielo habilidad Bola de hielo?"
       ],
       "responses": [
-        "Mago Hielo — Bola de hielo (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel."
+        "Mago Hielo — Bola de hielo (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel.",
+        "Detalle de Bola de hielo: Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -525,7 +555,9 @@
         "¿detalle curación directa nivel 2?"
       ],
       "responses": [
-        "Médico — Curación Directa (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel."
+        "Médico — Curación Directa (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel.",
+        "Detalle de Curación Directa: Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -558,7 +590,9 @@
         "¿¿acción nivel 5 de médico??"
       ],
       "responses": [
-        "Médico — Neutralización de Efectos (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel."
+        "Médico — Neutralización de Efectos (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel.",
+        "Detalle de Neutralización de Efectos: Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -591,7 +625,9 @@
         "acción nivel 8 de médico??"
       ],
       "responses": [
-        "Médico — Reanimación (Nivel 8) | Costo: Todos los PP. Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel."
+        "Médico — Reanimación (Nivel 8) | Costo: Todos los PP. Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel.",
+        "Detalle de Reanimación: Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel. Recuerda que requiere Todos los PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -624,7 +660,9 @@
         "¿Costo y efecto Cortada??"
       ],
       "responses": [
-        "Pícaro Machete — Cortada (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel."
+        "Pícaro Machete — Cortada (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel.",
+        "Detalle de Cortada: Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -657,7 +695,9 @@
         "Costo y efecto Machetazo?"
       ],
       "responses": [
-        "Pícaro Machete — Machetazo (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel."
+        "Pícaro Machete — Machetazo (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel.",
+        "Detalle de Machetazo: Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -690,7 +730,9 @@
         "¿Detalle Planazo nivel 8???"
       ],
       "responses": [
-        "Pícaro Machete — Planazo (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel."
+        "Pícaro Machete — Planazo (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel.",
+        "Detalle de Planazo: Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -723,7 +765,9 @@
         "¿¿Acción nivel 2 de Pícaro Veneno???"
       ],
       "responses": [
-        "Pícaro Veneno — Flor de loto (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel."
+        "Pícaro Veneno — Flor de loto (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel.",
+        "Detalle de Flor de loto: Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel. Recuerda que requiere 2 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -756,7 +800,9 @@
         "Acción nivel 5 de Pícaro Veneno??"
       ],
       "responses": [
-        "Pícaro Veneno — Agonía (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel."
+        "Pícaro Veneno — Agonía (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel.",
+        "Detalle de Agonía: Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -789,7 +835,9 @@
         "pícaro veneno habilidad piquete"
       ],
       "responses": [
-        "Pícaro Veneno — Piquete (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel."
+        "Pícaro Veneno — Piquete (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel.",
+        "Detalle de Piquete: Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel. Recuerda que requiere 4 PP.",
+        "Se recomienda sincronizar la carga con ventanas seguras del combate."
       ]
     },
     {
@@ -822,7 +870,9 @@
         "Chamán carga y duración"
       ],
       "responses": [
-        "Chamán — Acciones por nivel: Nivel 2: Toque de la Vida (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Vínculo Natural (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel. Nivel 8: Canto del Bosque (6 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel."
+        "Chamán — Acciones por nivel: Nivel 2: Toque de la Vida (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Vínculo Natural (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel. Nivel 8: Canto del Bosque (6 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -855,7 +905,9 @@
         "guerrero?"
       ],
       "responses": [
-        "Guerrero Armas — Acciones por nivel: Nivel 2: Embate sangriento (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel. Nivel 5: Lanza de los dioses (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel. Nivel 8: Golpe de tormenta (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel."
+        "Guerrero Armas — Acciones por nivel: Nivel 2: Embate sangriento (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel. Nivel 5: Lanza de los dioses (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel. Nivel 8: Golpe de tormenta (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -888,7 +940,9 @@
         "Guerrero Tanque habilidades por nivel??"
       ],
       "responses": [
-        "Guerrero Tanque — Acciones por nivel: Nivel 2: Golpe con escudo (2 PP). Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel. Nivel 5: Mano de piedra (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel. Nivel 8: Defensa feroz (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel."
+        "Guerrero Tanque — Acciones por nivel: Nivel 2: Golpe con escudo (2 PP). Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel. Nivel 5: Mano de piedra (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel. Nivel 8: Defensa feroz (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -921,7 +975,9 @@
         "mago fuego acciones 2 5 8??"
       ],
       "responses": [
-        "Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Nivel 5: Vulcano (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Nivel 8: Pared de fuego (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel."
+        "Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Nivel 5: Vulcano (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Nivel 8: Pared de fuego (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -954,7 +1010,9 @@
         "mago hielo carga y duración??"
       ],
       "responses": [
-        "Mago Hielo — Acciones por nivel: Nivel 2: Lluvia de hielo (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel. Nivel 5: Cono de hielo (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel. Nivel 8: Bola de hielo (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel."
+        "Mago Hielo — Acciones por nivel: Nivel 2: Lluvia de hielo (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel. Nivel 5: Cono de hielo (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel. Nivel 8: Bola de hielo (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -987,7 +1045,9 @@
         "¿¿¿Acciones por nivel de Médico???"
       ],
       "responses": [
-        "Médico — Acciones por nivel: Nivel 2: Curación Directa (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Neutralización de Efectos (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel. Nivel 8: Reanimación (Todos los PP). Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel."
+        "Médico — Acciones por nivel: Nivel 2: Curación Directa (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Neutralización de Efectos (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel. Nivel 8: Reanimación (Todos los PP). Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -1020,7 +1080,9 @@
         "pícaro machete carga y duración?"
       ],
       "responses": [
-        "Pícaro Machete — Acciones por nivel: Nivel 2: Cortada (2 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel. Nivel 5: Machetazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel. Nivel 8: Planazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel."
+        "Pícaro Machete — Acciones por nivel: Nivel 2: Cortada (2 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel. Nivel 5: Machetazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel. Nivel 8: Planazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -1053,7 +1115,9 @@
         "¿¿acciones por nivel de pacaro veneno??"
       ],
       "responses": [
-        "Pícaro Veneno — Acciones por nivel: Nivel 2: Flor de loto (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel. Nivel 5: Agonía (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel. Nivel 8: Piquete (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel."
+        "Pícaro Veneno — Acciones por nivel: Nivel 2: Flor de loto (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel. Nivel 5: Agonía (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel. Nivel 8: Piquete (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel.",
+        "Todas las acciones tienen 1 turno de carga y escalan con el nivel (salvo que se indique duración mayor).",
+        "Ajusta su uso al manejo de poder (PP) y ventanas del enemigo."
       ]
     },
     {
@@ -1086,7 +1150,9 @@
         "¿¿Acciones de Chamán??"
       ],
       "responses": [
-        "Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos."
+        "Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.",
+        "Chamán tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.",
+        "Chamán tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos."
       ]
     },
     {
@@ -1154,7 +1220,9 @@
         "¿¿Acciones de Guerrero Armas??"
       ],
       "responses": [
-        "Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño."
+        "Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.",
+        "Guerrero Armas tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.",
+        "Guerrero Armas tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño."
       ]
     },
     {
@@ -1222,7 +1290,9 @@
         "¿¿Acciones de Guerrero Tanque??"
       ],
       "responses": [
-        "Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno)."
+        "Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).",
+        "Guerrero Tanque tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).",
+        "Guerrero Tanque tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno)."
       ]
     },
     {
@@ -1290,7 +1360,9 @@
         "¿¿Acciones de Mago Fuego??"
       ],
       "responses": [
-        "Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior."
+        "Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.",
+        "Mago Fuego tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.",
+        "Mago Fuego tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior."
       ]
     },
     {
@@ -1358,7 +1430,9 @@
         "¿¿Acciones de Mago Hielo??"
       ],
       "responses": [
-        "Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos."
+        "Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.",
+        "Mago Hielo tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.",
+        "Mago Hielo tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos."
       ]
     },
     {
@@ -1426,7 +1500,9 @@
         "¿¿Acciones de Médico??"
       ],
       "responses": [
-        "Acciones de Médico: Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero."
+        "Acciones de Médico: Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero.",
+        "Médico tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero.",
+        "Médico tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero."
       ]
     },
     {
@@ -1494,7 +1570,9 @@
         "¿¿Acciones de Pícaro Machete??"
       ],
       "responses": [
-        "Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño."
+        "Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.",
+        "Pícaro Machete tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.",
+        "Pícaro Machete tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño."
       ]
     },
     {
@@ -1562,7 +1640,9 @@
         "¿¿Acciones de Pícaro Veneno??"
       ],
       "responses": [
-        "Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno."
+        "Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.",
+        "Pícaro Veneno tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.",
+        "Pícaro Veneno tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno."
       ]
     },
     {
@@ -1630,7 +1710,9 @@
         "¿Raíz china porcentaje de caída??"
       ],
       "responses": [
-        "Raíz china [Mano/1H] — Efecto: +(2d4) SANACIÓN. %Caída: 3%."
+        "Raíz china [Mano/1H] — Efecto: +(2d4) SANACIÓN. %Caída: 3%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1663,7 +1745,9 @@
         "¿yerbabuena porcentaje de caída??"
       ],
       "responses": [
-        "Yerbabuena [Accesorio] — Efecto: +(4d6) SANACIÓN. %Caída: 2%."
+        "Yerbabuena [Accesorio] — Efecto: +(4d6) SANACIÓN. %Caída: 2%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1696,7 +1780,9 @@
         "guerrero??"
       ],
       "responses": [
-        "Espada de dos manos [Mano/2H] — Efecto: +1 ATAQUE, +3% CRÍTICO. %Caída: 1%."
+        "Espada de dos manos [Mano/2H] — Efecto: +1 ATAQUE, +3% CRÍTICO. %Caída: 1%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1729,7 +1815,9 @@
         "piedra de afilar porcentaje de caada??"
       ],
       "responses": [
-        "Piedra de afilar [Accesorio] — Efecto: +2 DAÑO, +1 ATAQUE. %Caída: 2%."
+        "Piedra de afilar [Accesorio] — Efecto: +2 DAÑO, +1 ATAQUE. %Caída: 2%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1762,7 +1850,9 @@
         "¿escudo de dragón porcentaje de caída??"
       ],
       "responses": [
-        "Escudo de dragón [Mano/Off] — Efecto: +1 DEFENSA. %Caída: 5%."
+        "Escudo de dragón [Mano/Off] — Efecto: +1 DEFENSA. %Caída: 5%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1795,7 +1885,9 @@
         "¿¿¿Guerrero Tanque detalle arma Espada de una mano???"
       ],
       "responses": [
-        "Espada de una mano [Mano/1H] — Efecto: +1 ATAQUE, +1% CRÍTICO. %Caída: 3%."
+        "Espada de una mano [Mano/1H] — Efecto: +1 ATAQUE, +1% CRÍTICO. %Caída: 3%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1828,7 +1920,9 @@
         "Mago Fuego detalle arma Fuego fatuo?"
       ],
       "responses": [
-        "Fuego fatuo [Accesorio] — Efecto: +1 DAÑO. %Caída: 3%."
+        "Fuego fatuo [Accesorio] — Efecto: +1 DAÑO. %Caída: 3%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1861,7 +1955,9 @@
         "¿¿Mago Fuego detalle arma Orbe de manos ardientes???"
       ],
       "responses": [
-        "Orbe de manos ardientes [Mano/1H] — Efecto: +1 DAÑO, +3% CRÍTICO. %Caída: 1%."
+        "Orbe de manos ardientes [Mano/1H] — Efecto: +1 DAÑO, +3% CRÍTICO. %Caída: 1%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1894,7 +1990,9 @@
         "báculo de permafrost efectos?"
       ],
       "responses": [
-        "Báculo de Permafrost [Mano/2H] — Efecto: -1 DAÑO del oponente, -2% CRÍTICO del oponente. %Caída: 2%."
+        "Báculo de Permafrost [Mano/2H] — Efecto: -1 DAÑO del oponente, -2% CRÍTICO del oponente. %Caída: 2%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1927,7 +2025,9 @@
         "mago?"
       ],
       "responses": [
-        "Venas heladas [Accesorio] — Efecto: -1 ATAQUE del oponente. %Caída: 5%."
+        "Venas heladas [Accesorio] — Efecto: -1 ATAQUE del oponente. %Caída: 5%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1960,7 +2060,9 @@
         "Médico detalle arma Kit de urgencias"
       ],
       "responses": [
-        "Kit de urgencias [Mano/1H] — Efecto: +(2d6) SANACIÓN. %Caída: 3%."
+        "Kit de urgencias [Mano/1H] — Efecto: +(2d6) SANACIÓN. %Caída: 3%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -1993,7 +2095,9 @@
         "¿reanimador porcentaje de caída??"
       ],
       "responses": [
-        "Reanimador [Accesorio] — Efecto: Mejora reanimación. %Caída: 2%."
+        "Reanimador [Accesorio] — Efecto: Mejora reanimación. %Caída: 2%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -2026,7 +2130,9 @@
         "cierra"
       ],
       "responses": [
-        "Cierra sangrienta [Accesorio] — Efecto: +2 SANACIÓN por 2 turnos. %Caída: 1%."
+        "Cierra sangrienta [Accesorio] — Efecto: +2 SANACIÓN por 2 turnos. %Caída: 1%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -2059,7 +2165,9 @@
         "¿Machete bendito efectos?"
       ],
       "responses": [
-        "Machete bendito [Mano/1H] — Efecto: +2 DAÑO, +2% CRÍTICO. %Caída: 1%."
+        "Machete bendito [Mano/1H] — Efecto: +2 DAÑO, +2% CRÍTICO. %Caída: 1%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -2092,7 +2200,9 @@
         "Pícaro Veneno detalle arma Daga purulenta"
       ],
       "responses": [
-        "Daga purulenta [Mano/1H] — Efecto: +1 DAÑO por 2 turnos, +3% CRÍTICO. %Caída: 1%."
+        "Daga purulenta [Mano/1H] — Efecto: +1 DAÑO por 2 turnos, +3% CRÍTICO. %Caída: 1%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -2125,7 +2235,9 @@
         "¿pícaro veneno detalle arma visión borrosa??"
       ],
       "responses": [
-        "Visión borrosa [Accesorio] — Efecto: +2 DAÑO por 2 turnos. %Caída: 4%."
+        "Visión borrosa [Accesorio] — Efecto: +2 DAÑO por 2 turnos. %Caída: 4%.",
+        "Consejo: ajusta tu rotación para aprovechar su efecto clave.",
+        "Sinergias: considera épica e ítems que potencien su condición de victoria."
       ]
     },
     {
@@ -2158,7 +2270,9 @@
         "¿Chamán pieza Casco de Ecos Ancestrales??"
       ],
       "responses": [
-        "Casco de Ecos Ancestrales (GEAR 2) [Casco] — +1 DEF, +2 VIDA. %Caída: 2%."
+        "Casco de Ecos Ancestrales (GEAR 2) [Casco] — +1 DEF, +2 VIDA. %Caída: 2%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2191,7 +2305,9 @@
         "piel de caminante del bosque drop"
       ],
       "responses": [
-        "Piel de Caminante del Bosque (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%."
+        "Piel de Caminante del Bosque (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2224,7 +2340,9 @@
         "Puño lúcido drop???"
       ],
       "responses": [
-        "Puño lúcido (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 2%."
+        "Puño lúcido (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 2%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2257,7 +2375,9 @@
         "Puños en llamas efecto de armadura?"
       ],
       "responses": [
-        "Puños en llamas (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 2%."
+        "Puños en llamas (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 2%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2290,7 +2410,9 @@
         "¿Defensa del enfurecido tipo de pieza??"
       ],
       "responses": [
-        "Defensa del enfurecido (GEAR 1) [Pecho] — +2 DEF, +2 VIDA. %Caída: 5%."
+        "Defensa del enfurecido (GEAR 1) [Pecho] — +2 DEF, +2 VIDA. %Caída: 5%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2323,7 +2445,9 @@
         "¿¿Guerrero Tanque pieza Magma Ardiente??"
       ],
       "responses": [
-        "Magma Ardiente (GEAR 2) [Casco] — +2 DEF, +1 VIDA. %Caída: 5%."
+        "Magma Ardiente (GEAR 2) [Casco] — +2 DEF, +1 VIDA. %Caída: 5%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2356,7 +2480,9 @@
         "¿mago fuego pieza caída de fuego?"
       ],
       "responses": [
-        "Caída de fuego (GEAR 2) [Pantalón] — +1 DEF, +1 VIDA. %Caída: 3%."
+        "Caída de fuego (GEAR 2) [Pantalón] — +1 DEF, +1 VIDA. %Caída: 3%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2389,7 +2515,9 @@
         "¿Túnica arcana tipo de pieza??"
       ],
       "responses": [
-        "Túnica arcana (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 3%."
+        "Túnica arcana (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 3%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2422,7 +2550,9 @@
         "corona de hielo drop?"
       ],
       "responses": [
-        "Corona de hielo (GEAR 1) [Casco] — +1 DEF, +1 VIDA. %Caída: 5%."
+        "Corona de hielo (GEAR 1) [Casco] — +1 DEF, +1 VIDA. %Caída: 5%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2455,7 +2585,9 @@
         "Mago Hielo pieza Ventisca?"
       ],
       "responses": [
-        "Ventisca (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 5%."
+        "Ventisca (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 5%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2488,7 +2620,9 @@
         "bata"
       ],
       "responses": [
-        "Bata de Cirujano (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%."
+        "Bata de Cirujano (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2521,7 +2655,9 @@
         "Médico pieza Pantalón de Expedición Médica?"
       ],
       "responses": [
-        "Pantalón de Expedición Médica (GEAR 2) [Pantalón] — +1 DEF, +2 VIDA. %Caída: 2%."
+        "Pantalón de Expedición Médica (GEAR 2) [Pantalón] — +1 DEF, +2 VIDA. %Caída: 2%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2554,7 +2690,9 @@
         "¿Pie de atleta tipo de pieza?"
       ],
       "responses": [
-        "Pie de atleta (GEAR 1) [Zapatos] — +2 DEF, +1 VIDA. %Caída: 1%."
+        "Pie de atleta (GEAR 1) [Zapatos] — +2 DEF, +1 VIDA. %Caída: 1%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2587,7 +2725,9 @@
         "¿sangre cruel drop??"
       ],
       "responses": [
-        "Sangre cruel (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 1%."
+        "Sangre cruel (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 1%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2620,7 +2760,9 @@
         "¿pícaro veneno pieza atadura carmesí?"
       ],
       "responses": [
-        "Atadura carmesí (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%."
+        "Atadura carmesí (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2653,7 +2795,9 @@
         "¿¿Mano del desterrado tipo de pieza??"
       ],
       "responses": [
-        "Mano del desterrado (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 4%."
+        "Mano del desterrado (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 4%.",
+        "Piensa tu distribución 6/6 piezas para balancear DEF y VIDA.",
+        "Sinergia: combina con armas/ítems que sostengan tu rol."
       ]
     },
     {
@@ -2686,6 +2830,8 @@
         "¿¿Armaduras para Chamán??"
       ],
       "responses": [
+        "Armaduras de Chamán: GEAR 1 → Piel de Caminante del Bosque (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Casco de Ecos Ancestrales (Casco): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Chamán: GEAR 1 → Piel de Caminante del Bosque (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Casco de Ecos Ancestrales (Casco): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Chamán: GEAR 1 → Piel de Caminante del Bosque (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Casco de Ecos Ancestrales (Casco): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -2754,6 +2900,8 @@
         "¿¿Armaduras para Guerrero Armas??"
       ],
       "responses": [
+        "Armaduras de Guerrero Armas: GEAR 1 → Puño lúcido (Guantes): +2 DEF, +1 VIDA Caída 2%; GEAR 2 → Puños en llamas (Brazaletes): +1 DEF, +1 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Guerrero Armas: GEAR 1 → Puño lúcido (Guantes): +2 DEF, +1 VIDA Caída 2%; GEAR 2 → Puños en llamas (Brazaletes): +1 DEF, +1 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Guerrero Armas: GEAR 1 → Puño lúcido (Guantes): +2 DEF, +1 VIDA Caída 2%; GEAR 2 → Puños en llamas (Brazaletes): +1 DEF, +1 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -2822,6 +2970,8 @@
         "¿¿Armaduras para Guerrero Tanque??"
       ],
       "responses": [
+        "Armaduras de Guerrero Tanque: GEAR 1 → Defensa del enfurecido (Pecho): +2 DEF, +2 VIDA Caída 5%; GEAR 2 → Magma Ardiente (Casco): +2 DEF, +1 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Guerrero Tanque: GEAR 1 → Defensa del enfurecido (Pecho): +2 DEF, +2 VIDA Caída 5%; GEAR 2 → Magma Ardiente (Casco): +2 DEF, +1 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Guerrero Tanque: GEAR 1 → Defensa del enfurecido (Pecho): +2 DEF, +2 VIDA Caída 5%; GEAR 2 → Magma Ardiente (Casco): +2 DEF, +1 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -2890,6 +3040,8 @@
         "¿¿Armaduras para Mago Fuego??"
       ],
       "responses": [
+        "Armaduras de Mago Fuego: GEAR 1 → Túnica arcana (Pecho): +1 DEF, +2 VIDA Caída 3%; GEAR 2 → Caída de fuego (Pantalón): +1 DEF, +1 VIDA Caída 3%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Mago Fuego: GEAR 1 → Túnica arcana (Pecho): +1 DEF, +2 VIDA Caída 3%; GEAR 2 → Caída de fuego (Pantalón): +1 DEF, +1 VIDA Caída 3%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Mago Fuego: GEAR 1 → Túnica arcana (Pecho): +1 DEF, +2 VIDA Caída 3%; GEAR 2 → Caída de fuego (Pantalón): +1 DEF, +1 VIDA Caída 3%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -2958,6 +3110,8 @@
         "¿¿Armaduras para Mago Hielo??"
       ],
       "responses": [
+        "Armaduras de Mago Hielo: GEAR 1 → Corona de hielo (Casco): +1 DEF, +1 VIDA Caída 5%; GEAR 2 → Ventisca (Pecho): +1 DEF, +2 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Mago Hielo: GEAR 1 → Corona de hielo (Casco): +1 DEF, +1 VIDA Caída 5%; GEAR 2 → Ventisca (Pecho): +1 DEF, +2 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Mago Hielo: GEAR 1 → Corona de hielo (Casco): +1 DEF, +1 VIDA Caída 5%; GEAR 2 → Ventisca (Pecho): +1 DEF, +2 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -3026,6 +3180,8 @@
         "¿¿Armaduras para Médico??"
       ],
       "responses": [
+        "Armaduras de Médico: GEAR 1 → Bata de Cirujano (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Pantalón de Expedición Médica (Pantalón): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Médico: GEAR 1 → Bata de Cirujano (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Pantalón de Expedición Médica (Pantalón): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Médico: GEAR 1 → Bata de Cirujano (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Pantalón de Expedición Médica (Pantalón): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -3094,6 +3250,8 @@
         "¿¿Armaduras para Pícaro Machete??"
       ],
       "responses": [
+        "Armaduras de Pícaro Machete: GEAR 1 → Pie de atleta (Zapatos): +2 DEF, +1 VIDA Caída 1%; GEAR 2 → Sangre cruel (Brazaletes): +1 DEF, +1 VIDA Caída 1%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Pícaro Machete: GEAR 1 → Pie de atleta (Zapatos): +2 DEF, +1 VIDA Caída 1%; GEAR 2 → Sangre cruel (Brazaletes): +1 DEF, +1 VIDA Caída 1%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Pícaro Machete: GEAR 1 → Pie de atleta (Zapatos): +2 DEF, +1 VIDA Caída 1%; GEAR 2 → Sangre cruel (Brazaletes): +1 DEF, +1 VIDA Caída 1%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -3162,6 +3320,8 @@
         "¿¿Armaduras para Pícaro Veneno??"
       ],
       "responses": [
+        "Armaduras de Pícaro Veneno: GEAR 1 → Mano del desterrado (Guantes): +2 DEF, +1 VIDA Caída 4%; GEAR 2 → Atadura carmesí (Pecho): +1 DEF, +2 VIDA Caída 4%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
+        "Armaduras de Pícaro Veneno: GEAR 1 → Mano del desterrado (Guantes): +2 DEF, +1 VIDA Caída 4%; GEAR 2 → Atadura carmesí (Pecho): +1 DEF, +2 VIDA Caída 4%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)",
         "Armaduras de Pícaro Veneno: GEAR 1 → Mano del desterrado (Guantes): +2 DEF, +1 VIDA Caída 4%; GEAR 2 → Atadura carmesí (Pecho): +1 DEF, +2 VIDA Caída 4%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)"
       ]
     },
@@ -3230,7 +3390,9 @@
         "¿¿Armas para Chamán??"
       ],
       "responses": [
-        "Armas de Chamán: SET 1 → Raíz china (+(2d4) SANACIÓN) Caída 3%; SET 2 → Yerbabuena (+(4d6) SANACIÓN) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Chamán: SET 1 → Raíz china (+(2d4) de sanación) Caída 3%; SET 2 → Yerbabuena (+(4d6) de sanación) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Chamán: SET 1 → Raíz china (+(2d4) de sanación) Caída 3%; SET 2 → Yerbabuena (+(4d6) de sanación) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Chamán: SET 1 → Raíz china (+(2d4) de sanación) Caída 3%; SET 2 → Yerbabuena (+(4d6) de sanación) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3263,7 +3425,9 @@
         "armas para chamán info"
       ],
       "responses": [
-        "Armas de Chamán: SET 1 → Raíz china (+(2d4) SANACIÓN) Caída 3%; SET 2 → Yerbabuena (+(4d6) SANACIÓN) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Chamán: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3296,7 +3460,9 @@
         "¿¿Armas para Guerrero Armas??"
       ],
       "responses": [
-        "Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 ATAQUE, +3% CRÍTICO) Caída 1%; SET 2 → Piedra de afilar (+2 DAÑO, +1 ATAQUE) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 al ataque, +3% crítico) Caída 1%; SET 2 → Piedra de afilar (+2 al daño, +1 al ataque) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 al ataque, +3% crítico) Caída 1%; SET 2 → Piedra de afilar (+2 al daño, +1 al ataque) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 al ataque, +3% crítico) Caída 1%; SET 2 → Piedra de afilar (+2 al daño, +1 al ataque) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3329,7 +3495,9 @@
         "armas para guerrero armas info??"
       ],
       "responses": [
-        "Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 ATAQUE, +3% CRÍTICO) Caída 1%; SET 2 → Piedra de afilar (+2 DAÑO, +1 ATAQUE) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Guerrero Armas: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3362,7 +3530,9 @@
         "¿¿Armas para Guerrero Tanque??"
       ],
       "responses": [
-        "Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 ATAQUE, +1% CRÍTICO) Caída 3%; SET 2 → Escudo de dragón (+1 DEFENSA) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 al ataque, +1% crítico) Caída 3%; SET 2 → Escudo de dragón (+1 a la defensa) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 al ataque, +1% crítico) Caída 3%; SET 2 → Escudo de dragón (+1 a la defensa) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 al ataque, +1% crítico) Caída 3%; SET 2 → Escudo de dragón (+1 a la defensa) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3395,7 +3565,9 @@
         "armas para guerero tanque??"
       ],
       "responses": [
-        "Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 ATAQUE, +1% CRÍTICO) Caída 3%; SET 2 → Escudo de dragón (+1 DEFENSA) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Guerrero Tanque: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3428,7 +3600,9 @@
         "¿¿Armas para Mago Fuego??"
       ],
       "responses": [
-        "Armas de Mago Fuego: SET 1 → Orbe de manos ardientes (+1 DAÑO, +3% CRÍTICO) Caída 1%; SET 2 → Fuego fatuo (+1 DAÑO) Caída 3%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Mago Fuego: SET 1 → Orbe de manos ardientes (+1 al daño, +3% crítico) Caída 1%; SET 2 → Fuego fatuo (+1 al daño) Caída 3%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Mago Fuego: SET 1 → Orbe de manos ardientes (+1 al daño, +3% crítico) Caída 1%; SET 2 → Fuego fatuo (+1 al daño) Caída 3%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Mago Fuego: SET 1 → Orbe de manos ardientes (+1 al daño, +3% crítico) Caída 1%; SET 2 → Fuego fatuo (+1 al daño) Caída 3%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3461,7 +3635,9 @@
         "armas para mago fuego info?"
       ],
       "responses": [
-        "Armas de Mago Fuego: SET 1 → Orbe de manos ardientes (+1 DAÑO, +3% CRÍTICO) Caída 1%; SET 2 → Fuego fatuo (+1 DAÑO) Caída 3%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Mago Fuego: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3494,7 +3670,9 @@
         "¿¿Armas para Mago Hielo??"
       ],
       "responses": [
-        "Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 DAÑO del oponente, -2% CRÍTICO del oponente) Caída 2%; SET 2 → Venas heladas (-1 ATAQUE del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 al daño del oponente, -2% crítico del oponente) Caída 2%; SET 2 → Venas heladas (-1 al ataque del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 al daño del oponente, -2% crítico del oponente) Caída 2%; SET 2 → Venas heladas (-1 al ataque del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 al daño del oponente, -2% crítico del oponente) Caída 2%; SET 2 → Venas heladas (-1 al ataque del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3527,7 +3705,9 @@
         "¿armas??"
       ],
       "responses": [
-        "Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 DAÑO del oponente, -2% CRÍTICO del oponente) Caída 2%; SET 2 → Venas heladas (-1 ATAQUE del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Mago Hielo: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3560,7 +3740,9 @@
         "¿¿Armas para Médico??"
       ],
       "responses": [
-        "Armas de Médico: SET 1 → Kit de urgencias (+(2d6) SANACIÓN) Caída 3%; SET 2 → Reanimador (Mejora reanimación (texto base)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Médico: SET 1 → Kit de urgencias (+(2d6) de sanación) Caída 3%; SET 2 → Reanimador ((Efecto de reanimación mejorado)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Médico: SET 1 → Kit de urgencias (+(2d6) de sanación) Caída 3%; SET 2 → Reanimador ((Efecto de reanimación mejorado)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Médico: SET 1 → Kit de urgencias (+(2d6) de sanación) Caída 3%; SET 2 → Reanimador ((Efecto de reanimación mejorado)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3593,7 +3775,9 @@
         "armas para médico??"
       ],
       "responses": [
-        "Armas de Médico: SET 1 → Kit de urgencias (+(2d6) SANACIÓN) Caída 3%; SET 2 → Reanimador (Mejora reanimación (texto base)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Médico: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3626,7 +3810,9 @@
         "¿¿Armas para Pícaro Machete??"
       ],
       "responses": [
-        "Armas de Pícaro Machete: SET 1 → Machete bendito (+2 DAÑO, +2% CRÍTICO) Caída 1%; SET 2 → Cierra sangrienta (+2 SANACIÓN por 2 turnos) Caída 1%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Pícaro Machete: SET 1 → Machete bendito (+2 al daño, +2% crítico) Caída 1%; SET 2 → Cierra sangrienta (+2 de sanación por 2 turnos) Caída 1%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Pícaro Machete: SET 1 → Machete bendito (+2 al daño, +2% crítico) Caída 1%; SET 2 → Cierra sangrienta (+2 de sanación por 2 turnos) Caída 1%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Pícaro Machete: SET 1 → Machete bendito (+2 al daño, +2% crítico) Caída 1%; SET 2 → Cierra sangrienta (+2 de sanación por 2 turnos) Caída 1%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3659,7 +3845,9 @@
         "¿¿¿Armas para Pícaro Machete???"
       ],
       "responses": [
-        "Armas de Pícaro Machete: SET 1 → Machete bendito (+2 DAÑO, +2% CRÍTICO) Caída 1%; SET 2 → Cierra sangrienta (+2 SANACIÓN por 2 turnos) Caída 1%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Pícaro Machete: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -3692,7 +3880,9 @@
         "¿¿Armas para Pícaro Veneno??"
       ],
       "responses": [
-        "Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 DAÑO por 2 turnos, +3% CRÍTICO) Caída 1%; SET 2 → Visión borrosa (+2 DAÑO por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 al daño por 2 turnos, +3% crítico) Caída 1%; SET 2 → Visión borrosa (+2 al daño por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 al daño por 2 turnos, +3% crítico) Caída 1%; SET 2 → Visión borrosa (+2 al daño por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)",
+        "Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 al daño por 2 turnos, +3% crítico) Caída 1%; SET 2 → Visión borrosa (+2 al daño por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)"
       ]
     },
     {
@@ -3725,7 +3915,9 @@
         "Armas para Picaro Veneno?"
       ],
       "responses": [
-        "Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 DAÑO por 2 turnos, +3% CRÍTICO) Caída 1%; SET 2 → Visión borrosa (+2 DAÑO por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)"
+        "Armas de Pícaro Veneno: SET 1 y SET 2 con efectos y % de caída.",
+        "Puedes equipar 2 armas; no se cambian en combate.",
+        "Te doy sinergias con épica/ítems si me dices tu estilo de juego."
       ]
     },
     {
@@ -5219,8 +5411,9 @@
         "¿Cómo vencer a Guerrero Armas con Chamán?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5253,8 +5446,9 @@
         "¿Cómo vencer a Guerrero Tanque con Chamán?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5287,8 +5481,9 @@
         "¿Cómo vencer a Mago Fuego con Chamán??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5321,8 +5516,9 @@
         "Como vencer a Mago Hielo con Chaman?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5355,8 +5551,9 @@
         "¿¿¿Cómo vencer a Médico con Chamán???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5389,8 +5586,9 @@
         "Como vencer a Picaro Machete con Chaman?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5423,8 +5621,9 @@
         "cómo vencer a pícaro veneno con chamán"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Chamán contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5457,8 +5656,9 @@
         "¿cómo vencer a chamán con guerrero armas info??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5491,8 +5691,9 @@
         "cómo vencer a guerrero tanque con guerrero armas info"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5525,8 +5726,9 @@
         "cómo vencer a mago fuego con guerero armas"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5559,8 +5761,9 @@
         "¿cómo vencer a mago hielo con guerrero armas info?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5593,8 +5796,9 @@
         "Como vencer a Medico con Guerrero Armas??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5627,8 +5831,9 @@
         "¿¿¿Cómo vencer a Pícaro Machete con Guerrero Armas???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5661,8 +5866,9 @@
         "¿Cómo vencer a Pícaro Veneno con Guerrero Armas?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Armas contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5695,8 +5901,9 @@
         "¿¿Cómo vencer a Chamán con Guerrero Tanque??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5729,8 +5936,9 @@
         "cómo vencer a guerrero armas con guerrero tanque info?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5763,8 +5971,9 @@
         "¿Como vencer a Mago Fuego con Guerrero Tanque?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5797,8 +6006,9 @@
         "¿cómo vencer a mago hielo con guerrero tanque info?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5831,8 +6041,9 @@
         "¿Cómo vencer a Médico con Guerrero Tanque?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5865,8 +6076,9 @@
         "Cómo vencer a Pícaro Machete con Guerrero Tanque"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5899,8 +6111,9 @@
         "¿Como vencer a Picaro Veneno con Guerrero Tanque??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Guerrero Tanque contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5933,8 +6146,9 @@
         "¿cómo vencer a chamán con mago fuego?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -5967,8 +6181,9 @@
         "cómo vencer a guerrero armas con mago fuego"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6001,8 +6216,9 @@
         "¿como vencer a guerrero tanque con mago fuego?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6035,8 +6251,9 @@
         "¿Cómo vencer a Mago Hielo con Mago Fuego?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6069,8 +6286,9 @@
         "¿cómo vencer a médico con mago fuego info?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6103,8 +6321,9 @@
         "¿¿¿Cómo vencer a Pícaro Machete con Mago Fuego???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6137,8 +6356,9 @@
         "cómo vencer a pícaro veneno con mago fuego info?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Fuego contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6171,8 +6391,9 @@
         "¿¿¿Cómo vencer a Chamán con Mago Hielo???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6205,8 +6426,9 @@
         "cómo vencer a guerrero armas con mago hielo"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6239,8 +6461,9 @@
         "Como vencer a Guerrero Tanque con Mago Hielo?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6273,8 +6496,9 @@
         "cómo"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6307,8 +6531,9 @@
         "¿¿Como vencer a Medico con Mago Hielo??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6341,8 +6566,9 @@
         "Cómo vencer a Pícaro Machete con Mago Hielo???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6375,8 +6601,9 @@
         "¿¿¿Cómo vencer a Pícaro Veneno con Mago Hielo???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Mago Hielo contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6409,8 +6636,9 @@
         "cómo vencer a chamán con médico"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6443,8 +6671,9 @@
         "Cómo vencer a Guerrero Armas con Médico???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6477,8 +6706,9 @@
         "¿como vencer a guerrero tanque con medico?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6511,8 +6741,9 @@
         "¿Como vencer a Mago Fuego con Medico?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6545,8 +6776,9 @@
         "cómo vencer a mago hielo con médico info"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6579,8 +6811,9 @@
         "cómo vencer a pícaro machete con médico info"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6613,8 +6846,9 @@
         "¿Cómo vencer a Pícaro Veneno con Médico?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Médico contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6647,8 +6881,9 @@
         "como vencer a chaman con picaro machete"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6681,8 +6916,9 @@
         "¿cómo vencer a guerrero armas con pícaro machete??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6715,8 +6951,9 @@
         "cómo vencer a guerero tanque con pícaro machete??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6749,8 +6986,9 @@
         "cómo vencer a mago fuego con pícaro machete info"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6783,8 +7021,9 @@
         "¿Cómo vencer a Mago Hielo con Pícaro Machete???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6817,8 +7056,9 @@
         "Cómo vencer a Médico con Pícaro Machete???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6851,8 +7091,9 @@
         "como vencer a picaro veneno con picaro machete?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Machete contra Pícaro Veneno: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6885,8 +7126,9 @@
         "cómo vencer a chamán con pícaro veneno info"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Chamán: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6919,8 +7161,9 @@
         "cómo vencer a guerrero armas con pícaro veneno??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Guerrero Armas: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6953,8 +7196,9 @@
         "¿¿Cómo vencer a Guerrero Tanque con Pícaro Veneno???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Guerrero Tanque: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -6987,8 +7231,9 @@
         "¿cómo??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Mago Fuego: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -7021,8 +7266,9 @@
         "¿cómo vencer a mago hielo con pícaro veneno info??"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Mago Hielo: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -7055,8 +7301,9 @@
         "Cómo vencer a Médico con Pícaro Veneno???"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Médico: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -7089,8 +7336,9 @@
         "¿como vencer a picaro machete con picaro veneno?"
       ],
       "responses": [
-        "No definido en el documento base. Consulta acciones por nivel y equipo del héroe.",
-        "Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol."
+        "Estrategia de Pícaro Veneno contra Pícaro Machete: prioriza acciones que neutralicen su ventaja.",
+        "Aprovecha ventanas de recarga y gestiona el poder para forzar errores.",
+        "Considera equipo que reduzca su condición de victoria (crit, burst, control)."
       ]
     },
     {
@@ -7608,7 +7856,9 @@
         "Probabilidades base de Chamán"
       ],
       "responses": [
-        "Chamán: No aplica (no causan daño/crit según Tabla 10)."
+        "Efectos base Chamán: causar_daño 0%(0), crítico 0%(0), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "Chamán: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -7641,7 +7891,9 @@
         "cambio crítico +10% chamán"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Chamán con +10% crítico → causar_daño 0%(0), crítico 10%(800), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -7674,7 +7926,9 @@
         "chamán efectos con +2% crítico?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Chamán con +2% crítico → causar_daño 0%(0), crítico 2%(160), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -7707,7 +7961,9 @@
         "¿Cambio crítico +4% Chamán???"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Chamán con +4% crítico → causar_daño 0%(0), crítico 4%(320), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -7740,7 +7996,12 @@
         "Tabla 8000 Chamán modificada???"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 0%(0), crítico 6%(480), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Chamán con +6% crítico → causar_daño 0%(0), crítico 6%(480), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -7773,7 +8034,9 @@
         "cambio cratico +8% chaman"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Chamán con +8% crítico → causar_daño 0%(0), crítico 8%(640), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -7838,8 +8101,9 @@
         "¿Probabilidades base de Guerrero Armas??"
       ],
       "responses": [
-        "Efectos base Guerrero Armas: daño 60%(4800), crítico 5%(400), evaden 3%(240), resisten 0%(0), escapan 2%(160), no_daño 30%(2400).",
-        "Guerrero Armas: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Guerrero Armas: causar_daño 60%(4800), crítico 5%(400), evaden 3%(240), resisten 0%(0), escapan 2%(160), no_daño 30%(2400).",
+        "Guerrero Armas: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8050,8 +8314,9 @@
         "probabilidades base de guerrero tanque"
       ],
       "responses": [
-        "Efectos base Guerrero Tanque: daño 40%(3200), crítico 0%(0), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 50%(4000).",
-        "Guerrero Tanque: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Guerrero Tanque: causar_daño 40%(3200), crítico 0%(0), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 50%(4000).",
+        "Guerrero Tanque: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8084,7 +8349,9 @@
         "¿¿guerrero tanque efectos con +10% crítico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Guerrero Tanque con +10% crítico → causar_daño 40%(3200), crítico 10%(800), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 40%(3200).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8117,7 +8384,9 @@
         "cambio cratico +2% guerrero tanque"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Guerrero Tanque con +2% crítico → causar_daño 40%(3200), crítico 2%(160), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 48%(3840).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8150,7 +8419,9 @@
         "cambio cratico +4% guerrero tanque"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Guerrero Tanque con +4% crítico → causar_daño 40%(3200), crítico 4%(320), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 46%(3680).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8183,7 +8454,12 @@
         "efectos con +6% crítico guerrero tanque?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 40%(3200), crítico 6%(480), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 44%(3520).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Guerrero Tanque con +6% crítico → causar_daño 40%(3200), crítico 6%(480), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 44%(3520).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8216,7 +8492,9 @@
         "¿¿cambio crítico +8% guerrero tanque??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Guerrero Tanque con +8% crítico → causar_daño 40%(3200), crítico 8%(640), evaden 5%(400), resisten 0%(0), escapan 5%(400), no_daño 42%(3360).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8249,8 +8527,9 @@
         "Críticos base Mago Fuego"
       ],
       "responses": [
-        "Efectos base Mago Fuego: daño 70%(5600), crítico 5%(400), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 20%(1600).",
-        "Mago Fuego: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Mago Fuego: causar_daño 70%(5600), crítico 5%(400), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 20%(1600).",
+        "Mago Fuego: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8283,7 +8562,9 @@
         "¿¿cambio cratico +10% mago fuego??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Fuego con +10% crítico → causar_daño 70%(5600), crítico 15%(1200), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 10%(800).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8316,7 +8597,9 @@
         "¿tabla 8000 mago fuego con más crítico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Fuego con +2% crítico → causar_daño 70%(5600), crítico 7%(560), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 18%(1440).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8349,7 +8632,9 @@
         "¿Mago Fuego efectos con +4% crítico?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Fuego con +4% crítico → causar_daño 70%(5600), crítico 9%(720), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 16%(1280).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8382,7 +8667,12 @@
         "¿¿camo cambia el cratico en mago fuego??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 70%(5600), crítico 11%(880), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 14%(1120).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Mago Fuego con +6% crítico → causar_daño 70%(5600), crítico 11%(880), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 14%(1120).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8415,7 +8705,9 @@
         "cambio crítico +8% mago fuego??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Fuego con +8% crítico → causar_daño 70%(5600), crítico 13%(1040), evaden 0%(0), resisten 5%(400), escapan 0%(0), no_daño 12%(960).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8448,8 +8740,9 @@
         "¿probabilidades?"
       ],
       "responses": [
-        "Efectos base Mago Hielo: daño 70%(5600), crítico 6%(480), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 20%(1600).",
-        "Mago Hielo: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Mago Hielo: causar_daño 70%(5600), crítico 6%(480), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 20%(1600).",
+        "Mago Hielo: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8482,7 +8775,9 @@
         "cambio crítico +10% mago hielo?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Hielo con +10% crítico → causar_daño 70%(5600), crítico 16%(1280), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 10%(800).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8515,7 +8810,9 @@
         "tabla 8000 mago hielo con mas cratico"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Hielo con +2% crítico → causar_daño 70%(5600), crítico 8%(640), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 18%(1440).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8548,7 +8845,9 @@
         "¿¿Tabla 8000 Mago Hielo con más crítico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Hielo con +4% crítico → causar_daño 70%(5600), crítico 10%(800), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 16%(1280).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8581,7 +8880,12 @@
         "camo cambia el cratico en mago hielo"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 70%(5600), crítico 12%(960), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 14%(1120).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Mago Hielo con +6% crítico → causar_daño 70%(5600), crítico 12%(960), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 14%(1120).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8614,7 +8918,9 @@
         "¿Mago Hielo efectos con +8% crítico?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Mago Hielo con +8% crítico → causar_daño 70%(5600), crítico 14%(1120), evaden 0%(0), resisten 4%(320), escapan 0%(0), no_daño 12%(960).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8647,7 +8953,9 @@
         "¿craticos base madico??"
       ],
       "responses": [
-        "Médico: No aplica (no causan daño/crit según Tabla 10)."
+        "Efectos base Médico: causar_daño 0%(0), crítico 0%(0), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "Médico: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8680,7 +8988,9 @@
         "¿tabla 8000 médico con más crítico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Médico con +10% crítico → causar_daño 0%(0), crítico 10%(800), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8713,7 +9023,9 @@
         "¿médico efectos con +2% crítico?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Médico con +2% crítico → causar_daño 0%(0), crítico 2%(160), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8746,7 +9058,9 @@
         "cambio crítico +4% médico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Médico con +4% crítico → causar_daño 0%(0), crítico 4%(320), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8779,7 +9093,12 @@
         "¿tabla??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 0%(0), crítico 6%(480), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Médico con +6% crítico → causar_daño 0%(0), crítico 6%(480), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8812,7 +9131,9 @@
         "¿tabla 8000 médico con más crítico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Médico con +8% crítico → causar_daño 0%(0), crítico 8%(640), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 0%(0).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8880,8 +9201,9 @@
         "¿Probabilidades base de Pícaro Machete?"
       ],
       "responses": [
-        "Efectos base Pícaro Machete: daño 60%(4800), crítico 8%(640), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 30%(2400).",
-        "Pícaro Machete: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Pícaro Machete: causar_daño 60%(4800), crítico 8%(640), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 30%(2400).",
+        "Pícaro Machete: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -8914,7 +9236,9 @@
         "¿cambio crítico +10% pícaro machete??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Machete con +10% crítico → causar_daño 60%(4800), crítico 18%(1440), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 20%(1600).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8947,7 +9271,9 @@
         "¿pacaro machete efectos con +2% cratico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Machete con +2% crítico → causar_daño 60%(4800), crítico 10%(800), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 28%(2240).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -8980,7 +9306,9 @@
         "¿Pícaro Machete efectos con +4% crítico???"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Machete con +4% crítico → causar_daño 60%(4800), crítico 12%(960), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 26%(2080).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9013,7 +9341,12 @@
         "¿¿Efectos con +6% crítico Pícaro Machete???"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 60%(4800), crítico 14%(1120), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 24%(1920).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Pícaro Machete con +6% crítico → causar_daño 60%(4800), crítico 14%(1120), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 24%(1920).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9046,7 +9379,9 @@
         "¿¿pacaro machete efectos con +8% cratico??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Machete con +8% crítico → causar_daño 60%(4800), crítico 16%(1280), evaden 0%(0), resisten 0%(0), escapan 2%(160), no_daño 22%(1760).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9079,8 +9414,9 @@
         "¿Críticos base Pícaro Veneno???"
       ],
       "responses": [
-        "Efectos base Pícaro Veneno: daño 55%(4400), crítico 10%(800), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 35%(2800).",
-        "Pícaro Veneno: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'."
+        "Efectos base Pícaro Veneno: causar_daño 55%(4400), crítico 10%(800), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 35%(2800).",
+        "Pícaro Veneno: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.",
+        "Pídeme un ejemplo con un modificador (p. ej., +6% crítico) y te doy el nuevo reparto de filas."
       ]
     },
     {
@@ -9113,7 +9449,9 @@
         "¿pícaro??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Veneno con +10% crítico → causar_daño 55%(4400), crítico 20%(1600), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 25%(2000).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9146,7 +9484,9 @@
         "cambio crítico +2% pícaro veneno?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Veneno con +2% crítico → causar_daño 55%(4400), crítico 12%(960), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 33%(2640).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9179,7 +9519,9 @@
         "¿pacaro veneno efectos con +4% cratico?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Veneno con +4% crítico → causar_daño 55%(4400), crítico 14%(1120), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 31%(2480).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9212,7 +9554,12 @@
         "tabla 8000 pacaro veneno modificada?"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Ejemplo modificado (+6% crítico): causar_daño 55%(4400), crítico 16%(1280), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 29%(2320).",
+        "Al aumentar crítico, reducimos 'No causar daño' en la misma cantidad porcentual.",
+        "Puedo calcularlo para otros incrementos si lo especificas.",
+        "Pícaro Veneno con +6% crítico → causar_daño 55%(4400), crítico 16%(1280), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 29%(2320).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -9245,7 +9592,9 @@
         "¿Cambio crítico +8% Pícaro Veneno??"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Pícaro Veneno con +8% crítico → causar_daño 55%(4400), crítico 18%(1440), evaden 0%(0), resisten 0%(0), escapan 0%(0), no_daño 27%(2160).",
+        "El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.",
+        "Puedo combinar este incremento con ajustes por equipo/épica si lo indicas."
       ]
     },
     {
@@ -15491,7 +15840,9 @@
         "pared de fuego"
       ],
       "responses": [
-        "Se aceptan variantes ortográficas en patrones (p. ej., 'Pare de fuego'/'Pared de fuego'). El nombre canónico se mantiene según el documento."
+        "Se aceptan variantes ortográficas en patrones (p. ej., 'Pare de fuego'/'Pared de fuego'). El nombre canónico se mantiene según el documento.",
+        "Las consultas pueden llegar con errores comunes; el bot reconocerá ambas y responderá con el nombre oficial.",
+        "Esto mejora robustez del NLU sin cambiar el contenido canónico."
       ]
     },
     {
@@ -16420,7 +16771,9 @@
         "intervalos con más crítico guerrero tanque por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:3200%→256000, crítico:480%→38400, evaden:400%→32000, resisten:0%→0, escapan:400%→32000, no_daño:3520%→281600",
+        "Intervalos modificados (1-indexados): daño:1-3200, crítico:3201-3680, evaden:3681-4080, resisten:4081-4080, escapan:4081-4480, no_daño:4481-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16514,7 +16867,9 @@
         "modificación crítico +6 guerrero armas por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:4800%→384000, crítico:880%→70400, evaden:240%→19200, resisten:0%→0, escapan:160%→12800, no_daño:1920%→153600",
+        "Intervalos modificados (1-indexados): daño:1-4800, crítico:4801-5680, evaden:5681-5920, resisten:5921-5920, escapan:5921-6080, no_daño:6081-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16608,7 +16963,9 @@
         "Tabla 12 Mago Fuego con +6% crítico? por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:5600%→448000, crítico:880%→70400, evaden:0%→0, resisten:400%→32000, escapan:0%→0, no_daño:1120%→89600",
+        "Intervalos modificados (1-indexados): daño:1-5600, crítico:5601-6480, evaden:6481-6480, resisten:6481-6880, escapan:6881-6880, no_daño:6881-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16702,7 +17059,9 @@
         "tabla 12 mago hielo con +6% crítico por favor por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:5600%→448000, crítico:960%→76800, evaden:0%→0, resisten:320%→25600, escapan:0%→0, no_daño:1120%→89600",
+        "Intervalos modificados (1-indexados): daño:1-5600, crítico:5601-6560, evaden:6561-6560, resisten:6561-6880, escapan:6881-6880, no_daño:6881-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16796,7 +17155,9 @@
         "intervalos con más crítico pícaro veneno por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:4400%→352000, crítico:1280%→102400, evaden:0%→0, resisten:0%→0, escapan:0%→0, no_daño:2320%→185600",
+        "Intervalos modificados (1-indexados): daño:1-4400, crítico:4401-5680, evaden:5681-5680, resisten:5681-5680, escapan:5681-5680, no_daño:5681-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16890,7 +17251,9 @@
         "intervalos con más crítico pícaro machete por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:4800%→384000, crítico:1120%→89600, evaden:0%→0, resisten:0%→0, escapan:160%→12800, no_daño:1920%→153600",
+        "Intervalos modificados (1-indexados): daño:1-4800, crítico:4801-5920, evaden:5921-5920, resisten:5921-5920, escapan:5921-6080, no_daño:6081-8000",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -16984,7 +17347,9 @@
         "intervalos con más crítico Chamán? por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:0%→0, crítico:480%→38400, evaden:0%→0, resisten:0%→0, escapan:0%→0, no_daño:0%→0",
+        "Intervalos modificados (1-indexados): daño:1-0, crítico:1-480, evaden:481-480, resisten:481-480, escapan:481-480, no_daño:481-480",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {
@@ -17078,7 +17443,9 @@
         "intervalos con más crítico Médico por favor"
       ],
       "responses": [
-        "No definido en el documento base para este héroe."
+        "Nueva distribución con +6% crítico (restado de 'no causar daño'): daño:0%→0, crítico:480%→38400, evaden:0%→0, resisten:0%→0, escapan:0%→0, no_daño:0%→0",
+        "Intervalos modificados (1-indexados): daño:1-0, crítico:1-480, evaden:481-480, resisten:481-480, escapan:481-480, no_daño:481-480",
+        "Ejemplo: si el índice cae en el intervalo de 'crítico', el efecto será 120–180% del daño."
       ]
     },
     {

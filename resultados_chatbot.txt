@@ -1,0 +1,26 @@
+TEST CHATBOT  |  2025-09-15 20:33:21.692173
+============================================================
+[01] Q: hola
+     A: ¡Saludos! ¿Listo para jugar o resolver dudas?
+
+[02] Q: dime info del guerrero tanque
+     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+
+[03] Q: explícame el picaro machete
+     A: Pícaro Machete tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+
+[04] Q: qué poderes tiene el chamn?
+     A: Chamán tiene acciones con 1 turno de carga afectadas por el multiplicador de nivel. Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+
+[05] Q: qué son los créditos
+     A: Moneda ficticia: 2 por ganar 1v1, 4 por ganar grupal, 1 por participar.
+
+[06] Q: cómo hago una subasta
+     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+
+[07] Q: qué es la compra inmediata
+     A: Úsala cuando necesites asegurar un ítem sin esperar al cierre.
+
+[08] Q: cuál es la capital de Francia?
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
+
