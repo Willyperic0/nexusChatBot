@@ -1,7 +1,7 @@
-TEST CHATBOT  |  2025-09-15 23:06:46.521299
+TEST CHATBOT  |  2025-09-16 22:17:47.911321
 ============================================================
 [01] Q: hola
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: ¡Hola! ¿En qué puedo ayudarte?
 
 [02] Q: buenas
      A: ¡Hola! ¿En qué puedo ayudarte?
@@ -13,16 +13,16 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: ¡Hola! ¿En qué puedo ayudarte?
 
 [05] Q: hey
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: ¡Hola! ¿En qué puedo ayudarte?
 
 [06] Q: ¿qué hace el chatbot?
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Responde preguntas sobre héroes, objetos, misiones, subasta y torneo.
 
 [07] Q: cómo me ayuda el bot
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: El chatbot responde dudas sobre héroes, objetos, misiones, subasta, torneo y reglas. Disponible en cualquier vista del sistema.
 
 [08] Q: que hace el chatbot?
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Responde preguntas sobre héroes, objetos, misiones, subasta y torneo.
 
 [09] Q: bye
      A: ¡Hasta luego!
@@ -31,25 +31,26 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: ¡Hasta luego!
 
 [11] Q: dime info del guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: (Pregunta aproximada encontrada: 'heroe_info_guerrero_tanque')
+Guerrero Tanque tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [12] Q: acciones de guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Puedo sugerir en qué turno conviene activar cada acción.
 
 [13] Q: guerrero tanque acciones 2 5 8
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Guerrero Tanque — Acciones por nivel: Nivel 2: Golpe con escudo (2 PP). Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel. Nivel 5: Mano de piedra (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel. Nivel 8: Defensa feroz (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel.
 
 [14] Q: ¿costo y efecto golpe con escudo?
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Guerrero Tanque — Golpe con escudo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel.
 
 [15] Q: ¿costo y efecto mano de piedra?
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Guerrero Tanque — Mano de piedra (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel.
 
 [16] Q: ¿costo y efecto defensa feroz?
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Guerrero Tanque — Defensa feroz (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel.
 
 [17] Q: guerrero tanque carga y duración
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Guerrero Tanque — Acciones por nivel: Nivel 2: Golpe con escudo (2 PP). Carga: 1 turno | Duración: turno actual | Efecto: +2 al ATAQUE | Escala con nivel. Nivel 5: Mano de piedra (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +12 DEFENSA | Escala con nivel. Nivel 8: Defensa feroz (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: Inmune daño físico y -3d6 daño mágico | Escala con nivel.
 
 [18] Q: armas para guerrero tanque
      A: Armas de Guerrero Tanque: SET 1 → Espada de una mano (+1 ATAQUE, +1% CRÍTICO) Caída 3%; SET 2 → Escudo de dragón (+1 DEFENSA) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)
@@ -61,7 +62,8 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Escudo de dragón [Mano/Off] — Efecto: +1 DEFENSA. %Caída: 5%.
 
 [21] Q: armaduras para guerrero tanque
-     A: Armaduras de Guerrero Tanque: GEAR 1 → Defensa del enfurecido (Pecho): +2 DEF, +2 VIDA Caída 5%; GEAR 2 → Magma Ardiente (Casco): +2 DEF, +1 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: (Pregunta aproximada encontrada: 'equipo_guerrero_tanque_armaduras_detalle')
+Combina piezas para balancear DEF y VIDA según el modo de juego.
 
 [22] Q: defensa del enfurecido drop?
      A: Defensa del enfurecido (GEAR 1) [Pecho] — +2 DEF, +2 VIDA. %Caída: 5%.
@@ -70,22 +72,22 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Magma Ardiente (GEAR 2) [Casco] — +2 DEF, +1 VIDA. %Caída: 5%.
 
 [24] Q: dime info del guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Guerrero Armas (base): 60% causar daño (4800 filas), 5% crítico (400), 3% evadir (240), 2% escapar (160), 0% resistir (0), 30% no causar daño (2400). Con +6% crítico: crítico 11% (880) y 'No causar daño' 24% (1920).
 
 [25] Q: acciones de guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Acciones de Guerrero Armas: nivel 2/5/8 con 1 turno de carga y escalado por nivel.
 
 [26] Q: guerrero armas acciones 2 5 8
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Guerrero Armas — Acciones por nivel: Nivel 2: Embate sangriento (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel. Nivel 5: Lanza de los dioses (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel. Nivel 8: Golpe de tormenta (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel.
 
 [27] Q: costo y efecto embate sangriento
      A: Guerrero Armas — Embate sangriento (Nivel 2) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel.
 
 [28] Q: lanza de los dioses detalle
-     A: Guerrero Armas — Lanza de los dioses (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [29] Q: golpe de tormenta detalle
-     A: Guerrero Armas — Golpe de tormenta (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [30] Q: armas para guerrero armas
      A: Armas de Guerrero Armas: SET 1 → Espada de dos manos (+1 ATAQUE, +3% CRÍTICO) Caída 1%; SET 2 → Piedra de afilar (+2 DAÑO, +1 ATAQUE) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)
@@ -97,28 +99,30 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Piedra de afilar [Accesorio] — Efecto: +2 DAÑO, +1 ATAQUE. %Caída: 2%.
 
 [33] Q: armaduras para guerrero armas
-     A: Armaduras de Guerrero Armas: GEAR 1 → Puño lúcido (Guantes): +2 DEF, +1 VIDA Caída 2%; GEAR 2 → Puños en llamas (Brazaletes): +1 DEF, +1 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: Te detallo GEAR 1/2 de Guerrero Armas con efectos y % de caída si lo pides.
 
 [34] Q: puño lúcido efecto de armadura
      A: Puño lúcido (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 2%.
 
 [35] Q: puños en llamas drop
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Puños en llamas (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 2%.
 
 [36] Q: dime info del mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: (Pregunta aproximada encontrada: 'heroe_info_mago_fuego')
+Mago Fuego tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [37] Q: acciones de mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: Dime el nivel y te describo efectos y costos puntuales.
 
 [38] Q: mago fuego acciones 2 5 8
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Nivel 5: Vulcano (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Nivel 8: Pared de fuego (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.
 
 [39] Q: misiles de magma costo
-     A: Mago Fuego — Misiles de magma (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [40] Q: vulcano costo y efecto
-     A: Mago Fuego — Vulcano (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'accion_picaro_veneno_nivel_5')
+Pícaro Veneno — Agonía (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel.
 
 [41] Q: pared de fuego detalle nivel 8
      A: Mago Fuego — Pared de fuego (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.
@@ -133,7 +137,7 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Fuego fatuo [Accesorio] — Efecto: +1 DAÑO. %Caída: 3%.
 
 [45] Q: armaduras para mago fuego
-     A: Armaduras de Mago Fuego: GEAR 1 → Túnica arcana (Pecho): +1 DEF, +2 VIDA Caída 3%; GEAR 2 → Caída de fuego (Pantalón): +1 DEF, +1 VIDA Caída 3%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: Puedes equipar 6 partes (Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos).
 
 [46] Q: túnica arcana tipo de pieza
      A: Túnica arcana (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 3%.
@@ -142,22 +146,23 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Caída de fuego (GEAR 2) [Pantalón] — +1 DEF, +1 VIDA. %Caída: 3%.
 
 [48] Q: dime info del mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: (Pregunta aproximada encontrada: 'heroe_info_mago_hielo')
+Mago Hielo: consulta sus estadísticas base, acciones por nivel (2/5/8), épica y equipo recomendado.
 
 [49] Q: acciones de mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Acciones de Mago Hielo: nivel 2/5/8 con 1 turno de carga y escalado por nivel.
 
 [50] Q: mago hielo acciones 2 5 8
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Mago Hielo — Acciones por nivel: Nivel 2: Lluvia de hielo (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel. Nivel 5: Cono de hielo (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel. Nivel 8: Bola de hielo (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO; +2 ATAQUE; reduce (1d3) el ATAQUE enemigo | Escala con nivel.
 
 [51] Q: lluvia de hielo costo y efecto
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Mago Hielo — Lluvia de hielo (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE | Escala con nivel.
 
 [52] Q: cono de hielo costo y efecto
-     A: Mago Hielo — Cono de hielo (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO; +2 ATAQUE y reduce (0d4) el DAÑO del oponente | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [53] Q: bola de hielo costo y efecto
-     A: Mago Fuego — Vulcano (Nivel 5) | Costo: 6 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [54] Q: armas para mago hielo
      A: Armas de Mago Hielo: SET 1 → Báculo de Permafrost (-1 DAÑO del oponente, -2% CRÍTICO del oponente) Caída 2%; SET 2 → Venas heladas (-1 ATAQUE del oponente) Caída 5%. (Solo 2 armas equipables; sin cambios en combate)
@@ -169,7 +174,7 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Venas heladas [Accesorio] — Efecto: -1 ATAQUE del oponente. %Caída: 5%.
 
 [57] Q: armaduras para mago hielo
-     A: Armaduras de Mago Hielo: GEAR 1 → Corona de hielo (Casco): +1 DEF, +1 VIDA Caída 5%; GEAR 2 → Ventisca (Pecho): +1 DEF, +2 VIDA Caída 5%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: Te detallo GEAR 1/2 de Mago Hielo con efectos y % de caída si lo pides.
 
 [58] Q: corona de hielo tipo de pieza
      A: Corona de hielo (GEAR 1) [Casco] — +1 DEF, +1 VIDA. %Caída: 5%.
@@ -178,13 +183,14 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Ventisca (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 5%.
 
 [60] Q: dime info del pícaro machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: (Pregunta aproximada encontrada: 'heroe_info_picaro_machete')
+Pícaro Machete tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [61] Q: acciones de pícaro machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: Puedo sugerir en qué turno conviene activar cada acción.
 
 [62] Q: pícaro machete acciones 2 5 8
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: Pícaro Machete — Acciones por nivel: Nivel 2: Cortada (2 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel. Nivel 5: Machetazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel. Nivel 8: Planazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel.
 
 [63] Q: costo y efecto cortada
      A: Pícaro Machete — Cortada (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel.
@@ -202,10 +208,10 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Machete bendito [Mano/1H] — Efecto: +2 DAÑO, +2% CRÍTICO. %Caída: 1%.
 
 [68] Q: cierra sangrienta slot y uso
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Cierra sangrienta [Accesorio] — Efecto: +2 SANACIÓN por 2 turnos. %Caída: 1%.
 
 [69] Q: armaduras para pícaro machete
-     A: Armaduras de Pícaro Machete: GEAR 1 → Pie de atleta (Zapatos): +2 DEF, +1 VIDA Caída 1%; GEAR 2 → Sangre cruel (Brazaletes): +1 DEF, +1 VIDA Caída 1%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: La elección de piezas depende de tu rol en el equipo.
 
 [70] Q: pie de atleta efecto de armadura
      A: Pie de atleta (GEAR 1) [Zapatos] — +2 DEF, +1 VIDA. %Caída: 1%.
@@ -214,13 +220,15 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Sangre cruel (GEAR 2) [Brazaletes] — +1 DEF, +1 VIDA. %Caída: 1%.
 
 [72] Q: dime info del pícaro veneno
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: (Pregunta aproximada encontrada: 'heroe_info_picaro_veneno')
+Pícaro Veneno: consulta sus estadísticas base, acciones por nivel (2/5/8), épica y equipo recomendado.
 
 [73] Q: acciones de pícaro veneno
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: Acciones de Pícaro Veneno: nivel 2/5/8 con 1 turno de carga y escalado por nivel.
 
 [74] Q: pícaro veneno acciones 2 5 8
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: (Pregunta aproximada encontrada: 'acciones_picaro_machete_resumen')
+Pícaro Machete — Acciones por nivel: Nivel 2: Cortada (2 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 DAÑO | Escala con nivel. Nivel 5: Machetazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(2d8) DAÑO y +(2d8) ATAQUE | Escala con nivel. Nivel 8: Planazo (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE y +1 DAÑO | Escala con nivel.
 
 [75] Q: costo y efecto flor de loto
      A: Pícaro Veneno — Flor de loto (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel.
@@ -229,7 +237,8 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Pícaro Veneno — Agonía (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel.
 
 [77] Q: costo y efecto piquete
-     A: Pícaro Veneno — Piquete (Nivel 8) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +1 ATAQUE por 2 turnos; +2 DAÑO por 1 turno | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'accion_picaro_veneno_nivel_5')
+Pícaro Veneno — Agonía (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(2d9) DAÑO | Escala con nivel.
 
 [78] Q: armas para pícaro veneno
      A: Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 DAÑO por 2 turnos, +3% CRÍTICO) Caída 1%; SET 2 → Visión borrosa (+2 DAÑO por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)
@@ -241,31 +250,34 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Visión borrosa [Accesorio] — Efecto: +2 DAÑO por 2 turnos. %Caída: 4%.
 
 [81] Q: armaduras para pícaro veneno
-     A: Armaduras de Pícaro Veneno: GEAR 1 → Mano del desterrado (Guantes): +2 DEF, +1 VIDA Caída 4%; GEAR 2 → Atadura carmesí (Pecho): +1 DEF, +2 VIDA Caída 4%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: Puedes equipar 6 partes (Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos).
 
 [82] Q: atadura carmesí drop
      A: Atadura carmesí (GEAR 2) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.
 
 [83] Q: mano del desterrado tipo de pieza
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Mano del desterrado (GEAR 1) [Guantes] — +2 DEF, +1 VIDA. %Caída: 4%.
 
 [84] Q: dime info del chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: (Pregunta aproximada encontrada: 'heroe_info_chaman')
+Chamán tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [85] Q: acciones de chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: Dime el nivel y te describo efectos y costos puntuales.
 
 [86] Q: chamán acciones 2 5 8
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: Chamán — Acciones por nivel: Nivel 2: Toque de la Vida (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Vínculo Natural (4 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel. Nivel 8: Canto del Bosque (6 PP). Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel.
 
 [87] Q: costo y efecto toque de la vida
-     A: Chamán — Toque de la Vida (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'accion_picaro_veneno_nivel_2')
+Pícaro Veneno — Flor de loto (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +(4d8) DAÑO | Escala con nivel.
 
 [88] Q: vínculo natural detalle
-     A: Chamán — Vínculo Natural (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: +2 SANACIÓN por turno | Escala con nivel.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [89] Q: canto del bosque detalle
-     A: Chamán — Canto del Bosque (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'accion_chaman_nivel_8')
+Chamán — Canto del Bosque (Nivel 8) | Costo: 6 PP. Carga: 1 turno | Duración: 2 turnos | Efecto: Sana al grupo +(2d6) por turno | Escala con nivel.
 
 [90] Q: armas para chamán
      A: Armas de Chamán: SET 1 → Raíz china (+(2d4) SANACIÓN) Caída 3%; SET 2 → Yerbabuena (+(4d6) SANACIÓN) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)
@@ -277,7 +289,7 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Yerbabuena [Accesorio] — Efecto: +(4d6) SANACIÓN. %Caída: 2%.
 
 [93] Q: armaduras para chamán
-     A: Armaduras de Chamán: GEAR 1 → Piel de Caminante del Bosque (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Casco de Ecos Ancestrales (Casco): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: Te detallo GEAR 1/2 de Chamán con efectos y % de caída si lo pides.
 
 [94] Q: casco de ecos ancestrales drop
      A: Casco de Ecos Ancestrales (GEAR 2) [Casco] — +1 DEF, +2 VIDA. %Caída: 2%.
@@ -286,25 +298,28 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Piel de Caminante del Bosque (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.
 
 [96] Q: dime info del médico
-     A: Acciones de Médico: Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero.
+     A: (Pregunta aproximada encontrada: 'heroe_info_medico')
+Médico tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [97] Q: acciones de médico
-     A: Acciones de Médico: Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero.
+     A: Dime el nivel y te describo efectos y costos puntuales.
 
 [98] Q: médico habilidades por nivel
-     A: Acciones de Médico: Nivel 2: Curación Directa (2 PP) → +2 de sanación. Nivel 5: Neutralización de Efectos (4 PP) → +2 y +(2+4) de sanación. Nivel 8: Reanimación (Todos los PP) → Sana el 100% de la vida de un compañero.
+     A: Médico — Acciones por nivel: Nivel 2: Curación Directa (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel. Nivel 5: Neutralización de Efectos (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel. Nivel 8: Reanimación (Todos los PP). Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel.
 
 [99] Q: curación directa detalle nivel 2
      A: Médico — Curación Directa (Nivel 2) | Costo: 2 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN | Escala con nivel.
 
 [100] Q: neutralización de efectos detalle
-     A: Médico — Neutralización de Efectos (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'accion_medico_nivel_5')
+Médico — Neutralización de Efectos (Nivel 5) | Costo: 4 PP. Carga: 1 turno | Duración: 1 turno | Efecto: +2 SANACIÓN y +(2+4) SANACIÓN | Escala con nivel.
 
 [101] Q: reanimación detalle nivel 8
      A: Médico — Reanimación (Nivel 8) | Costo: Todos los PP. Carga: 1 turno | Duración: instantáneo | Efecto: Restaura 100% VIDA de un aliado | Consume todos los PP | Escala con nivel.
 
 [102] Q: armas para médico
-     A: Armas de Médico: SET 1 → Kit de urgencias (+(2d6) SANACIÓN) Caída 3%; SET 2 → Reanimador (Mejora reanimación (texto base)) Caída 2%. (Solo 2 armas equipables; sin cambios en combate)
+     A: (Pregunta aproximada encontrada: 'equipo_medico_armas_detalle')
+La elección depende de tu rol/rotación; puedo sugerir sinergias.
 
 [103] Q: kit de urgencias % de caída
      A: Kit de urgencias [Mano/1H] — Efecto: +(2d6) SANACIÓN. %Caída: 3%.
@@ -313,7 +328,7 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Reanimador [Accesorio] — Efecto: Mejora reanimación. %Caída: 2%.
 
 [105] Q: armaduras para médico
-     A: Armaduras de Médico: GEAR 1 → Bata de Cirujano (Pecho): +1 DEF, +2 VIDA Caída 4%; GEAR 2 → Pantalón de Expedición Médica (Pantalón): +1 DEF, +2 VIDA Caída 2%. (Puedes equipar 6 partes: Casco, Pecho, Guantes, Brazaletes, Pantalón, Zapatos)
+     A: La elección de piezas depende de tu rol en el equipo.
 
 [106] Q: bata de cirujano efecto de armadura
      A: Bata de Cirujano (GEAR 1) [Pecho] — +1 DEF, +2 VIDA. %Caída: 4%.
@@ -322,13 +337,13 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Pantalón de Expedición Médica (GEAR 2) [Pantalón] — +1 DEF, +2 VIDA. %Caída: 2%.
 
 [108] Q: ¿qué son los créditos?
-     A: Se acumulan por juego; gestiona tu economía para cofres.
+     A: Úsalos en subasta, torneos y compras internas.
 
 [109] Q: cómo ganar créditos
      A: Moneda ficticia: 2 créditos por ganar 1v1, 4 por ganar grupal, 1 por participar. Úsalos en subasta, torneos o compras internas.
 
 [110] Q: créditos usos
-     A: Moneda ficticia: 2 créditos por ganar 1v1, 4 por ganar grupal, 1 por participar. Úsalos en subasta, torneos o compras internas.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [111] Q: qué son los cofres
      A: Cada 20 créditos ganados recibes un cofre con recompensa aleatoria. Máximo 2 cofres por semana (el contador se reinicia al alcanzar 20 créditos).
@@ -340,7 +355,7 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Cada 20 créditos ganados recibes un cofre con recompensa aleatoria. Máximo 2 cofres por semana (el contador se reinicia al alcanzar 20 créditos).
 
 [114] Q: cofres contador
-     A: Cada 20 créditos ganados recibes un cofre con recompensa aleatoria. Máximo 2 cofres por semana (el contador se reinicia al alcanzar 20 créditos).
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [115] Q: colores de barra de vida
      A: Verde >60%, Amarillo 60–40%, Rojo <40%.
@@ -352,347 +367,361 @@ TEST CHATBOT  |  2025-09-15 23:06:46.521299
      A: Verde >60%, Amarillo 60–40%, Rojo <40%.
 
 [118] Q: cómo hago una subasta
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+     A: (Pregunta aproximada encontrada: 'subasta_canon')
+Hay filtros, historial y notificaciones de ganador.
 
 [119] Q: cómo puedo pujar
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+     A: (Pregunta aproximada encontrada: 'subasta_canon')
+Hay filtros, historial y notificaciones de ganador.
 
 [120] Q: cómo funciona la compra inmediata
-     A: Además de pujar, puedes usar 'compra inmediata' pagando un valor fijo superior de la puja.
-
-[121] Q: subasta 24h 48h
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
-
-[122] Q: comprar ya buyout
      A: La compra inmediata cierra la subasta de forma anticipada para ese producto.
 
+[121] Q: subasta 24h 48h
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
+
+[122] Q: comprar ya buyout
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
+
 [123] Q: compra inmediata explicación
-     A: Úsala cuando necesites asegurar un ítem sin esperar al cierre.
+     A: Además de pujar, puedes usar 'compra inmediata' pagando un valor fijo superior de la puja.
 
 [124] Q: subasta costos
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+     A: (Pregunta aproximada encontrada: 'subasta_compra_inmediata')
+La compra inmediata cierra la subasta de forma anticipada para ese producto.
 
 [125] Q: puja requisitos
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+     A: Recuperación por preguntas y código al correo.
 
 [126] Q: cómo vencer a Guerrero Armas con Chamán
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [127] Q: cómo vencer a Guerrero Tanque con Chamán
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [128] Q: cómo vencer a Mago Fuego con Chamán
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [129] Q: cómo vencer a Mago Hielo con Chamán
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [130] Q: cómo vencer a Médico con Chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [131] Q: cómo vencer a Pícaro Machete con Chamán
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [132] Q: cómo vencer a Pícaro Veneno con Chamán
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [133] Q: cómo vencer a Chamán con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [134] Q: cómo vencer a Guerrero Tanque con Guerrero Armas
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [135] Q: cómo vencer a Mago Fuego con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [136] Q: cómo vencer a Mago Hielo con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [137] Q: cómo vencer a Médico con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [138] Q: cómo vencer a Pícaro Machete con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [139] Q: cómo vencer a Pícaro Veneno con Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [140] Q: cómo vencer a Chamán con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [141] Q: cómo vencer a Guerrero Armas con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [142] Q: cómo vencer a Mago Fuego con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [143] Q: cómo vencer a Mago Hielo con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [144] Q: cómo vencer a Médico con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [145] Q: cómo vencer a Pícaro Machete con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [146] Q: cómo vencer a Pícaro Veneno con Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [147] Q: cómo vencer a Chamán con Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [148] Q: cómo vencer a Guerrero Armas con Mago Fuego
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [149] Q: cómo vencer a Guerrero Tanque con Mago Fuego
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [150] Q: cómo vencer a Mago Hielo con Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [151] Q: cómo vencer a Médico con Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [152] Q: cómo vencer a Pícaro Machete con Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [153] Q: cómo vencer a Pícaro Veneno con Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [154] Q: cómo vencer a Chamán con Mago Hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [155] Q: cómo vencer a Guerrero Armas con Mago Hielo
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [156] Q: cómo vencer a Guerrero Tanque con Mago Hielo
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [157] Q: cómo vencer a Mago Fuego con Mago Hielo
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [158] Q: cómo vencer a Médico con Mago Hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [159] Q: cómo vencer a Pícaro Machete con Mago Hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [160] Q: cómo vencer a Pícaro Veneno con Mago Hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [161] Q: cómo vencer a Chamán con Médico
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [162] Q: cómo vencer a Guerrero Armas con Médico
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [163] Q: cómo vencer a Guerrero Tanque con Médico
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [164] Q: cómo vencer a Mago Fuego con Médico
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [165] Q: cómo vencer a Mago Hielo con Médico
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [166] Q: cómo vencer a Pícaro Machete con Médico
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [167] Q: cómo vencer a Pícaro Veneno con Médico
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [168] Q: cómo vencer a Chamán con Pícaro Machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [169] Q: cómo vencer a Guerrero Armas con Pícaro Machete
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [170] Q: cómo vencer a Guerrero Tanque con Pícaro Machete
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [171] Q: cómo vencer a Mago Fuego con Pícaro Machete
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [172] Q: cómo vencer a Mago Hielo con Pícaro Machete
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [173] Q: cómo vencer a Médico con Pícaro Machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [174] Q: cómo vencer a Pícaro Veneno con Pícaro Machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [175] Q: cómo vencer a Chamán con Pícaro Veneno
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [176] Q: cómo vencer a Guerrero Armas con Pícaro Veneno
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [177] Q: cómo vencer a Guerrero Tanque con Pícaro Veneno
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [178] Q: cómo vencer a Mago Fuego con Pícaro Veneno
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [179] Q: cómo vencer a Mago Hielo con Pícaro Veneno
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [180] Q: cómo vencer a Médico con Pícaro Veneno
-     A: Acciones de Pícaro Veneno: Nivel 2: Flor de loto (2 PP) → +(4d8) al daño. Nivel 5: Agonía (4 PP) → +(2d9) de daño. Nivel 8: Piquete (4 PP) → +1 al ataque por 2 turnos; +2 al daño por 1 turno.
+     A: No definido en el documento base. Consulta acciones por nivel y equipo del héroe.
 
 [181] Q: cómo vencer a Pícaro Machete con Pícaro Veneno
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: Revisa Tabla 5 (acciones) y Tablas 6–7 (armas/armaduras) para decidir según el rol.
 
 [182] Q: efectos aleatorios
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: Crítico, evasión, resistencia y daño nulo forman la mezcla de resultados posible.
 
 [183] Q: críticos y evasión
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: La resolución de golpes usa una tabla de 8000 filas. Si ATAQUE supera DEFENSA, se elige una fila aleatoria con distribución normal para aplicar: daño, crítico, evasión, resistencia o nulo. Ajustes por equipo/épicas restan de 'No causar daño'.
 
 [184] Q: cómo funciona la tabla de 8000 efectos
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: La resolución de golpes usa una tabla de 8000 filas. Si ATAQUE supera DEFENSA, se elige una fila aleatoria con distribución normal para aplicar: daño, crítico, evasión, resistencia o nulo. Ajustes por equipo/épicas restan de 'No causar daño'.
 
 [185] Q: efectos aleatorios de Chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: Chamán: No aplica (no causan daño/crit según Tabla 10).
 
 [186] Q: cambio crítico +2% chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [187] Q: cambio crítico +4% chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [188] Q: cambio crítico +6% chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [189] Q: cambio crítico +8% chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [190] Q: cambio crítico +10% chamán
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [191] Q: tabla 8000 chamán modificada
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [192] Q: probabilidades base de Guerrero Armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: Efectos base Guerrero Armas: daño 60%(4800), crítico 5%(400), evaden 3%(240), resisten 0%(0), escapan 2%(160), no_daño 30%(2400).
 
 [193] Q: cambio crítico +2% guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_guerrero_armas_mod_crit4')
+Puedo combinar este incremento con ajustes por equipo/épica si lo indicas.
 
 [194] Q: cambio crítico +4% guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.
 
 [195] Q: cambio crítico +6% guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: No definido en el documento base para este héroe.
 
 [196] Q: cambio crítico +8% guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_guerrero_armas_mod_crit4')
+El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.
 
 [197] Q: cambio crítico +10% guerrero armas
-     A: Acciones de Guerrero Armas: Nivel 2: Embate sangriento (4 PP) → +2 al ataque y +2 al daño. Nivel 5: Lanza de los dioses (4 PP) → +(3d6) al ataque. Nivel 8: Golpe de tormenta (6 PP) → +2 al daño.
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_guerrero_armas_mod_crit4')
+El aumento de crítico se compensa restando de 'No causar daño' en igual porcentaje.
 
 [198] Q: probabilidades base de Guerrero Tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: Guerrero Tanque: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.
 
 [199] Q: cambio crítico +2% guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base para este héroe.
 
 [200] Q: cambio crítico +4% guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base para este héroe.
 
 [201] Q: cambio crítico +6% guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_guerrero_tanque_mod_crit8')
+No definido en el documento base para este héroe.
 
 [202] Q: cambio crítico +8% guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: No definido en el documento base para este héroe.
 
 [203] Q: cambio crítico +10% guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_guerrero_tanque_mod_crit8')
+No definido en el documento base para este héroe.
 
 [204] Q: probabilidades base de Mago Fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: Distribución base (porcentaje → filas en 8000): daño:70%→5600, crítico:5%→400, evaden:0%→0, resisten:5%→400, escapan:0%→0, no_daño:20%→1600
 
 [205] Q: cambio crítico +2% mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base para este héroe.
 
 [206] Q: cambio crítico +4% mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base para este héroe.
 
 [207] Q: cambio crítico +6% mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base para este héroe.
 
 [208] Q: cambio crítico +8% mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base para este héroe.
 
 [209] Q: cambio crítico +10% mago fuego
-     A: Acciones de Mago Fuego: Nivel 2: Misiles de magma (2 PP) → +1 al ataque. Nivel 5: Vulcano (6 PP) → +2 de daño y +(3d9) al daño. Nivel 8: Pared de fuego (4 PP) → +3 al ataque; +1 al ataque y retorna (0dx) del daño del turno anterior.
+     A: No definido en el documento base para este héroe.
 
 [210] Q: probabilidades base de Mago Hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: Mago Hielo: conversión a filas (8000 total). Ajustes por equipo/épica restan de 'No causar daño'.
 
 [211] Q: cambio crítico +2% mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [212] Q: cambio crítico +4% mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [213] Q: cambio crítico +6% mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [214] Q: cambio crítico +8% mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: (Pregunta aproximada encontrada: 'efectos_aleatorios_mago_hielo_mod_crit4')
+No definido en el documento base para este héroe.
 
 [215] Q: cambio crítico +10% mago hielo
-     A: Acciones de Mago Hielo: Nivel 2: Lluvia de hielo (2 PP) → +2 al ataque. Nivel 5: Cono de hielo (6 PP) → +2 de daño; +2 al ataque y afecta en (0d4) el daño del oponente. Nivel 8: Bola de hielo (4 PP) → +2 al daño; +2 al ataque y afecta el ataque del enemigo en (1d3) por 2 turnos.
+     A: No definido en el documento base para este héroe.
 
 [216] Q: # Casos con ruido / typos (desafío)
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [217] Q: ime info del guerrero tanque
-     A: Acciones de Guerrero Tanque: Nivel 2: Golpe con escudo (2 PP) → +2 al ataque. Nivel 5: Mano de piedra (4 PP) → +12 a la defensa. Nivel 8: Defensa feroz (6 PP) → Inmune al daño físico y (3d6) al daño mágico (turno).
+     A: (Pregunta aproximada encontrada: 'heroe_info_guerrero_tanque')
+Guerrero Tanque tiene rol y kit definidos. ¿Quieres ver acciones por nivel, épica o equipo?
 
 [218] Q: explícame el picaro machete
-     A: Acciones de Pícaro Machete: Nivel 2: Cortada (2 PP) → +2 al daño por 2 turnos. Nivel 5: Machetazo (4 PP) → +(2d8) al daño; +(2d8) al ataque. Nivel 8: Planazo (4 PP) → +1 al ataque; +1 al daño.
+     A: (Pregunta aproximada encontrada: 'heroe_info_picaro_machete_canon')
+Pícaro Machete: consulta estadísticas base, acciones (niveles 2/5/8), épica y equipo sugerido.
 
 [219] Q: que poderes tiene el chamn
-     A: Acciones de Chamán: Nivel 2: Toque de la Vida (2 PP) → +2 de sanación. Nivel 5: Vínculo Natural (4 PP) → +2 de sanación por 2 turnos. Nivel 8: Canto del Bosque (6 PP) → Sana al grupo + (2d6) durante 2 turnos.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [220] Q: como hago subaasta
-     A: Subasta por 24h (1 crédito) o 48h (3 créditos). Puedes vender/comprar/pujar con créditos o dinero real (si es producto de la compañía).
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
 
 [221] Q: espadaa de dos manos efectos
      A: Espada de dos manos [Mano/2H] — Efecto: +1 ATAQUE, +3% CRÍTICO. %Caída: 1%.
 
 [222] Q: mago fueg acciones 2 5 8
-     A: Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Nivel 5: Vulcano (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Nivel 8: Pared de fuego (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.
+     A: (Pregunta aproximada encontrada: 'acciones_mago_fuego_resumen')
+Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma (2 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +1 ATAQUE | Escala con nivel. Nivel 5: Vulcano (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO y +(3d9) DAÑO adicional | Escala con nivel. Nivel 8: Pared de fuego (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +3 ATAQUE; devuelve (0dx) del daño recibido previo | Escala con nivel.
 
 [223] Q: picar0 veneno armas set 1
      A: Armas de Pícaro Veneno: SET 1 → Daga purulenta (+1 DAÑO por 2 turnos, +3% CRÍTICO) Caída 1%; SET 2 → Visión borrosa (+2 DAÑO por 2 turnos) Caída 4%. (Solo 2 armas equipables; sin cambios en combate)
 
 [224] Q: guerrerro armas accionez
-     A: Puedo sugerir en qué turno conviene activar cada acción.
+     A: (Pregunta aproximada encontrada: 'acciones_guerrero_armas_resumen')
+Guerrero Armas — Acciones por nivel: Nivel 2: Embate sangriento (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 ATAQUE y +2 DAÑO | Escala con nivel. Nivel 5: Lanza de los dioses (4 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +(3d6) ATAQUE | Escala con nivel. Nivel 8: Golpe de tormenta (6 PP). Carga: 1 turno | Duración: 1 turno | Efecto: +2 DAÑO | Escala con nivel.
 
 [225] Q: comprar ya buyout
-     A: Además de pujar, puedes usar 'compra inmediata' pagando un valor fijo superior de la puja.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [226] Q: cofres limite semnal
-     A: Cada 20 créditos ganados recibes un cofre con recompensa aleatoria. Máximo 2 cofres por semana (el contador se reinicia al alcanzar 20 créditos).
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [227] Q: colorez barra de vida
-     A: Verde >60%, Amarillo 60–40%, Rojo <40%.
+     A: (Pregunta aproximada encontrada: 'barra_vida')
+Verde >60%, Amarillo 60–40%, Rojo <40%.
 
 [228] Q: # Fuera de dominio (debe ir a fallback)
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [229] Q: capital de Francia
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [230] Q: quién es messi
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [231] Q: clima hoy
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
 [232] Q: precio del dólar
-     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo.
+     A: No entendí bien. Puedes preguntarme por héroes, acciones por nivel, épicas, equipo, misiones, subasta o torneo. Puedes preguntarme sobre héroes, ítems, misiones o subasta.
 
