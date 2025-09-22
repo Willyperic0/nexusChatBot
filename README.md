@@ -1,90 +1,182 @@
-## **Guía de Instalación y Ejecución**
+# 🤖 NexusBattle Chatbot API
+
+Servidor backend para el chatbot de **NexusBattle**, construido con **FastAPI** y un modelo entrenado en TensorFlow/Keras.
+Permite procesar preguntas de los usuarios, interpretar intenciones y devolver respuestas predefinidas o aproximadas usando fuzzy matching.
+
+---
+
+## 🚀 Guía de Instalación y Ejecución
 
 ### **1. Preparar el entorno**
 
-1. Recomiendo generar un entorno virtual (virtual environment) para aislar las dependencias del proyecto:
+1. Crea un entorno virtual:
 
-   ```bash
-   python3 -m venv mi_venv
-   ```
+```bash
+python -m venv mi_venv
+```
 
-   > Nota: Puedes reemplazar `mi_venv` por el nombre que desees para tu entorno.
+2. Actívalo según tu sistema operativo:
 
-2. Activar el entorno virtual:
+* **Linux / macOS**:
 
-   * En **Linux / macOS**:
+  ```bash
+  source mi_venv/bin/activate
+  ```
+* **Windows (PowerShell)**:
 
-     ```bash
-     source mi_venv/bin/activate
-     ```
-   * En **Windows (PowerShell)**:
+  ```powershell
+  mi_venv\Scripts\activate
+  ```
 
-     ```powershell
-     mi_venv\Scripts\activate
-     ```
-
-3. Verás que tu terminal muestra el nombre del entorno al inicio, indicando que todas las instalaciones se harán dentro de este entorno.
+3. Verás `(mi_venv)` al inicio de tu terminal, confirmando que el entorno está activo.
 
 ---
 
 ### **2. Instalar dependencias**
 
-Instala todas las librerías necesarias utilizando `requirements.txt`:
+Instala todo desde `requirements.txt`:
 
 ```bash
 pip install --no-cache-dir -r requirements.txt
 ```
 
-> Esto asegurará que se instalen `nltk`, `tensorflow`, `numpy`, `streamlit`, `scikit-learn` y cualquier otra dependencia listada.
+Incluye:
+
+* `fastapi`
+* `uvicorn`
+* `tensorflow`
+* `numpy`
+* `scikit-learn`
+* `nltk`
+* `unidecode`
 
 ---
 
-### **3. Preparar los datos y entrenar el modelo**
+### **3. Entrenar el modelo (opcional)**
 
-1. Ejecuta el script de entrenamiento:
+Si actualizas el dataset (`nexus_data.json`), debes reentrenar:
 
-   ```bash
-   python training_chatbot.py
-   ```
+```bash
+python scripts/training_chatbot.py
+```
 
-   * Esto generará los archivos:
+Esto generará en la carpeta `artifacts/`:
 
-     * `words.pkl`
-     * `classes.pkl`
-     * `chatbot_model.h5`
-   * El modelo tiene la siguiente arquitectura:
-
-     * Capa de entrada: 128 neuronas
-     * Capa oculta: 64 neuronas
-     * Capa de salida: cantidad de clases entrenadas
-
-2. Estos archivos permiten al chatbot predecir intenciones y dar respuestas basadas en tu dataset.
+* `chatbot_model.h5`
+* `tokenizer.pkl`
+* `label_encoder.pkl`
+* otros archivos auxiliares (`words.pkl`, `classes.pkl`, etc.)
 
 ---
 
-### **4. Ejecutar el chatbot**
+### **4. Ejecutar el servidor FastAPI**
 
-1. Para probar la lógica del chatbot desde la consola:
+Levanta el backend con:
 
-   ```bash
-   python chatbot.py
-   ```
+```bash
+python main.py
+```
 
-   * Esto cargará los archivos generados y el diccionario de datos para que los métodos funcionen correctamente.
+El servidor quedará disponible en:
 
-2. Para iniciar la interfaz web con Streamlit:
-
-   ```bash
-   streamlit run index.py
-   ```
-
-   * Se abrirá automáticamente en tu navegador, mostrando la interfaz del chatbot para interactuar con él.
+* **API Docs (Swagger UI):** [http://localhost:8000/docs](http://localhost:8000/docs)
+* **Health Check:** [http://localhost:8000/health](http://localhost:8000/health)
 
 ---
 
-### **5. Notas importantes**
+### **5. Probar el chatbot**
 
-* Asegúrate de que `nexus_data.json` esté en la misma carpeta que los scripts, ya que contiene el dataset de intenciones y respuestas.
-* Mantén el entorno virtual activado mientras trabajas en el proyecto para evitar conflictos con otras librerías del sistema.
-* Si agregas o modificas intenciones en el dataset, recuerda reentrenar el modelo (`training_chatbot.py`) para que los cambios surtan efecto.
+#### Usando Postman o cURL
 
+* **Endpoint:**
+
+  ```
+  POST http://localhost:8000/api/chat/
+  ```
+
+* **Headers:**
+
+  ```
+  Content-Type: application/json
+  ```
+
+* **Body (JSON):**
+
+  ```json
+  {
+    "message": "mago fueg acciones 2 5 8"
+  }
+  ```
+
+* **Respuesta (ejemplo):**
+
+  ```json
+  {
+    "reply": "Mago Fuego — Acciones por nivel: Nivel 2: Misiles de magma..."
+  }
+  ```
+
+---
+
+### **6. Testing rápido**
+
+Para ejecutar un lote de pruebas desde consola:
+
+```bash
+python tests/test_chatbot.py
+```
+
+Puedes pasar preguntas personalizadas:
+
+```bash
+python tests/test_chatbot.py "hola" "qué son los créditos" "acciones mago fuego"
+```
+
+También puedes exportar los resultados:
+
+```bash
+python tests/test_chatbot.py --txt resultados.txt
+```
+
+---
+
+## 📂 Estructura del Proyecto
+
+```
+nexusChatBot/
+├── main.py                  # Punto de entrada FastAPI
+├── requirements.txt         # Dependencias
+├── .env                     # Variables de entorno
+├── data/                    # Dataset base
+│   └── nexus_data.json
+├── artifacts/               # Modelos y archivos entrenados
+│   ├── chatbot_model.h5
+│   ├── tokenizer.pkl
+│   ├── label_encoder.pkl
+│   └── ...
+├── scripts/
+│   └── training_chatbot.py  # Script de entrenamiento
+├── src/core/
+│   ├── controllers/
+│   │   └── chat_controller.py
+│   ├── dtos/
+│   │   └── chat_dto.py
+│   ├── models/
+│   │   └── chatbot_runtime.py
+│   └── ...
+└── tests/
+    └── test_chatbot.py
+```
+
+---
+
+## ⚡ Notas importantes
+
+* Si cambias `nexus_data.json`, **reentrena el modelo**.
+* El campo obligatorio en la API es siempre `"message"`.
+* El servidor se ejecuta en `http://localhost:8000` por defecto.
+* Usa `reload=True` en desarrollo para autorecargar cambios.
+
+---
+
+👨‍💻 Hecho con FastAPI + TensorFlow para NexusBattle.

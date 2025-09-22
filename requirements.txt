@@ -4,3 +4,5 @@ numpy
 streamlit
 unidecode
 scikit-learn
+fastapi
+uvicorn

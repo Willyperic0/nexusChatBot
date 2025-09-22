@@ -1,11 +1,22 @@
-# test_chatbot.py
+# tests/test_chatbot.py
 import argparse
 import datetime as dt
 import sys
 from pathlib import Path
-import chatbot
 
+# ============================================
+# Ajuste de paths para importar desde /src
+# ============================================
+ROOT = Path(__file__).resolve().parents[1]  # nexusChatBot/
+SRC = ROOT / "src"
+sys.path.append(str(SRC))
 
+# Importa el runtime desde la nueva ruta
+from core.models.chatbot_runtime import ChatRuntime
+
+# ============================================
+# Preguntas de prueba
+# ============================================
 DEFAULT_QUESTIONS = [
     "hola",
     "dime info del guerrero tanque",
@@ -17,9 +28,11 @@ DEFAULT_QUESTIONS = [
     "cuál es la capital de Francia?",
 ]
 
-
+# ============================================
+# Runner
+# ============================================
 def run_batch(questions, save_txt=None, threshold=0.5):
-    rt = chatbot.ChatRuntime()
+    rt = ChatRuntime()
     rows = []
     print("=" * 80)
     print(f"TEST CHATBOT  |  {dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -51,10 +64,12 @@ def run_batch(questions, save_txt=None, threshold=0.5):
 
     print("\n✅ Lote finalizado.")
 
-
+# ============================================
+# Main
+# ============================================
 def main():
     parser = argparse.ArgumentParser(
-        description="Ejecuta un lote de preguntas contra ChatRuntime (chatbot.py)."
+        description="Ejecuta un lote de preguntas contra ChatRuntime (chatbot_runtime.py)."
     )
     parser.add_argument(
         "--txt",
@@ -71,7 +86,7 @@ def main():
         "--threshold",
         type=float,
         default=0.5,
-        help="Umbral de la NN (si no hay modelo, se usa semántica/fallback).",
+        help="Umbral de la NN (si no hay modelo, se usa fuzzy/fallback).",
     )
     parser.add_argument(
         "questions",
@@ -89,13 +104,15 @@ def main():
             print(f"[x] No existe el archivo: {p}", file=sys.stderr)
             sys.exit(1)
         questions = [
-            line.strip() for line in p.read_text(encoding="utf-8").splitlines() if line.strip()
+            line.strip()
+            for line in p.read_text(encoding="utf-8").splitlines()
+            if line.strip()
         ]
     else:
         questions = DEFAULT_QUESTIONS
 
     run_batch(questions, save_txt=args.txt, threshold=args.threshold)
 
-
+# ============================================
 if __name__ == "__main__":
     main()

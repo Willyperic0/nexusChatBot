@@ -38,7 +38,7 @@ except Exception:
 print("TF version:", tf.__version__)
 print("Keras version:", keras.__version__)
 
-DATA_PATH = 'nexus_data.json'  # cambia el nombre si tu archivo se llama distinto
+DATA_PATH = os.path.join("data", "nexus_data.json")
 with open(DATA_PATH, 'r', encoding='utf-8') as f:
     raw = json.load(f)
 
@@ -114,8 +114,9 @@ def to_pad(seqs, maxlen=MAX_LEN):
 X_train = to_pad(train_df['text'].tolist(), MAX_LEN)
 X_val   = to_pad(val_df['text'].tolist(), MAX_LEN)
 
-with open('tokenizer.pkl', 'wb') as f:
+with open(os.path.join("artifacts", "tokenizer.pkl"), 'wb') as f:
     pickle.dump(tokenizer, f)
+
 
 print("MAX_LEN:", MAX_LEN, "| Vocab usado (<=MAX_WORDS):", min(len(tokenizer.word_index)+1, MAX_WORDS))
 
@@ -136,8 +137,9 @@ class_weights_raw = compute_class_weight(
 class_weights = {i: float(w) for i, w in enumerate(class_weights_raw)}
 print("Ejemplo pesos (primeros 10):", dict(list(class_weights.items())[:10]))
 
-with open('label_encoder.pkl', 'wb') as f:
+with open(os.path.join("artifacts", "label_encoder.pkl"), 'wb') as f:
     pickle.dump(le, f)
+
 
 def build_textcnn(max_words: int, max_len: int, num_classes: int,
                   embed_dim: int = 128, conv_filters: int = 128,
@@ -175,8 +177,14 @@ early_stop = callbacks.EarlyStopping(monitor='val_accuracy', mode='max', patienc
                                      restore_best_weights=True, verbose=1)
 reduce_lr  = callbacks.ReduceLROnPlateau(monitor='val_loss', factor=0.5, patience=5,
                                          min_lr=1e-6, verbose=1)
-checkpoint = callbacks.ModelCheckpoint('chatbot_textcnn.keras', monitor='val_accuracy',
-                                       mode='max', save_best_only=True, verbose=1)
+checkpoint = callbacks.ModelCheckpoint(
+    os.path.join("artifacts", "chatbot_textcnn.keras"),
+    monitor='val_accuracy',
+    mode='max',
+    save_best_only=True,
+    verbose=1
+)
+
 
 history = model.fit(
     X_train, y_train,
@@ -188,7 +196,7 @@ history = model.fit(
     verbose=1
 )
 
-best_model = keras.models.load_model('chatbot_textcnn.keras', compile=False)
+best_model = keras.models.load_model(os.path.join("artifacts", "chatbot_textcnn.keras"), compile=False)
 best_model.compile(
     optimizer=optimizers.Adam(3e-4),
     loss=keras.losses.CategoricalCrossentropy(label_smoothing=0.0),
@@ -204,4 +212,5 @@ y_val_pred_int = np.argmax(y_val_pred, axis=1)
 print(classification_report(y_val_int, y_val_pred_int, digits=3))
 
 # Guarda el modelo entrenado en un archivo h5
-model.save('chatbot_model.h5')
+model.save(os.path.join("artifacts", "chatbot_model.h5"))
+
