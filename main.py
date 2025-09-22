@@ -1,5 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from src.core.controllers import chat_controller
 
 app = FastAPI(
@@ -8,7 +9,16 @@ app = FastAPI(
     description="Servidor para el chatbot de NexusBattle"
 )
 
-# Rutas
+# --- CORS middleware ---
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:4200"],  # tu frontend Angular
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Rutas del chatbot
 app.include_router(chat_controller.router, prefix="/api/chat", tags=["Chat"])
 
 @app.get("/health", tags=["Health"])
